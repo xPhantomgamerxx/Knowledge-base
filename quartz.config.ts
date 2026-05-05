@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Robotics Research KB",
+    pageTitle: "Embodied Robotics Research",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
