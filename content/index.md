@@ -26,6 +26,14 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/rl-robotics/rl-token-bootstrapping-online-rl-vla]] — RL Token: Bootstrapping Online RL with Vision-Language-Action Models (2026-04-24) #RL-Robotics
 - [[papers/rl-robotics/large-reward-models-generalizable-online-robot-reward]] — Large Reward Models: Generalizable Online Robot Reward Generation with Vision-Language Models (2026-03-17) #RL-Robotics
 - [[papers/rl-robotics/towards-long-lived-robots-continual-learning-vla-rft]] — Towards Long-Lived Robots: Continual Learning VLA Models via Reinforcement Fine-Tuning (2026-02-11) #RL-Robotics
+- [[papers/vla/acot-vla-action-chain-of-thought-for-vla-models]] — ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models (2026-01-16) #VLA
+- [[papers/vla/abot-m0-vla-foundation-model-action-manifold-learning]] — ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning (2026-02-11) #VLA
+- [[papers/vla/dualcot-vla-visual-linguistic-chain-of-thought-parallel-reasoning]] — DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models (2026-03-23) #VLA
+- [[papers/world-models/h-wm-hierarchical-world-model-task-motion-planning]] — H-WM: Robotic Task and Motion Planning Guided by Hierarchical World Model (2026-02-11) #WorldModels
+- [[papers/world-models/chain-of-world-world-model-thinking-latent-motion]] — Chain of World: World Model Thinking in Latent Motion (2026-03-01) #WorldModels
+- [[papers/world-models/hierarchical-planning-with-latent-world-models]] — Hierarchical Planning with Latent World Models (2026-04-03) #WorldModels
+- [[papers/rl-robotics/rlinf-co-sim-real-co-training-vla]] — RLinf-Co: Reinforcement Learning-Based Sim-Real Co-Training for VLA Models (2026-02-13) #RL-Robotics
+- [[papers/rl-robotics/what-matters-sim-to-online-rl-real-robots]] — What Matters for Simulation to Online Reinforcement Learning on Real Robots (2026-02-23) #RL-Robotics
 <!-- INDEX_END -->
 
 ---
@@ -33,9 +41,10 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 ## Weekly Digests
 
 <!-- DIGESTS_START -->
-- [[2026-05-05-weekly-digest]] — Weekly Digest 2026-05-05 (10 new entries)
+- [[digests/2026-05-05-weekly-digest]] — Weekly Digest 2026-05-05 (10 new entries)
+- [[digests/2026-05-06-weekly-digest]] — Weekly Digest 2026-05-06 (8 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-05-05*
+*Last updated: 2026-05-06*
