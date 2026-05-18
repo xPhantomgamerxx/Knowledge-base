@@ -42,6 +42,17 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/world-models/mwm-mobile-world-models-action-conditioned-consistent-prediction]] — MWM: Mobile World Models for Action-Conditioned Consistent Prediction (2026-03-08) #WorldModels
 - [[papers/world-models/mask-world-model-predicting-what-matters-robust-robot-policy-learning]] — Mask World Model: Predicting What Matters for Robust Robot Policy Learning (2026-04-21) #WorldModels
 - [[papers/rl-robotics/flashsac-fast-stable-off-policy-rl-high-dimensional-robot-control]] — FlashSAC: Fast and Stable Off-Policy Reinforcement Learning for High-Dimensional Robot Control (2026-04-06) #RL-Robotics
+- [[papers/vla/alam-algebraically-consistent-latent-action-model-vla]] — ALAM: Algebraically Consistent Latent Action Model for Vision-Language-Action Models (2026-05-13) #VLA
+- [[papers/vla/vla-forget-vision-language-action-unlearning-embodied]] — VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models (2026-04-05) #VLA
+- [[papers/vla/from-pixels-to-tokens-latent-action-supervision-vla]] — From Pixels to Tokens: A Systematic Study of Latent Action Supervision for Vision-Language-Action Models (2026-05-06) #VLA
+- [[papers/vla/defi-disentangled-robot-learning-forward-inverse-dynamics-pretraining]] — DeFI: Disentangled Robot Learning via Separate Forward and Inverse Dynamics Pretraining (2026-03-27) #VLA
+- [[papers/world-models/world-model-for-robot-learning-comprehensive-survey]] — World Model for Robot Learning: A Comprehensive Survey (2026-04-30) #WorldModels
+- [[papers/world-models/lawm-least-action-world-models-long-horizon-physical-consistency]] — LaWM: Least Action World Models for Long-Horizon Physical Consistency from Visual Observations (2026-05-08) #WorldModels
+- [[papers/world-models/one-token-per-frame-visual-bandwidth-world-models-vla-policy]] — One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy (2026-05-08) #WorldModels
+- [[papers/world-models/physically-native-world-models-hamiltonian-perspective]] — Physically Native World Models: A Hamiltonian Perspective on Generative World Modeling (2026-05-01) #WorldModels
+- [[papers/rl-robotics/scaling-sim-to-real-rl-robot-vla-generative-3d-worlds]] — Scaling Sim-to-Real Reinforcement Learning for Robot VLAs with Generative 3D Worlds (2026-03-19) #RL-Robotics
+- [[papers/rl-robotics/grounding-sim-to-real-generalization-dexterous-manipulation-vla]] — Grounding Sim-to-Real Generalization in Dexterous Manipulation: An Empirical Study with Vision-Language-Action Models (2026-03-24) #RL-Robotics
+- [[papers/rl-robotics/twinrl-vla-digital-twin-driven-rl-robotic-manipulation]] — TwinRL-VLA: Digital Twin-Driven Reinforcement Learning for Real-World Robotic Manipulation (2026-02-10) #RL-Robotics
 <!-- INDEX_END -->
 
 ---
@@ -52,8 +63,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-05-05-weekly-digest]] — Weekly Digest 2026-05-05 (10 new entries)
 - [[digests/2026-05-06-weekly-digest]] — Weekly Digest 2026-05-06 (8 new entries)
 - [[digests/2026-05-11-weekly-digest]] — Weekly Digest 2026-05-11 (8 new entries)
+- [[digests/2026-05-18-weekly-digest]] — Weekly Digest 2026-05-18 (11 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-05-11*
+*Last updated: 2026-05-18*
