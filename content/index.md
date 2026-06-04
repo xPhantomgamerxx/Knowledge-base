@@ -53,6 +53,17 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/rl-robotics/scaling-sim-to-real-rl-robot-vla-generative-3d-worlds]] — Scaling Sim-to-Real Reinforcement Learning for Robot VLAs with Generative 3D Worlds (2026-03-19) #RL-Robotics
 - [[papers/rl-robotics/grounding-sim-to-real-generalization-dexterous-manipulation-vla]] — Grounding Sim-to-Real Generalization in Dexterous Manipulation: An Empirical Study with Vision-Language-Action Models (2026-03-24) #RL-Robotics
 - [[papers/rl-robotics/twinrl-vla-digital-twin-driven-rl-robotic-manipulation]] — TwinRL-VLA: Digital Twin-Driven Reinforcement Learning for Real-World Robotic Manipulation (2026-02-10) #RL-Robotics
+- [[papers/vla/halo-unified-vla-embodied-multimodal-chain-of-thought-reasoning]] — HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning (2026-02-27) #VLA
+- [[papers/world-models/ddp-wm-disentangled-dynamics-prediction-efficient-world-models]] — DDP-WM: Disentangled Dynamics Prediction for Efficient World Models (2026-02-02) #WorldModels
+- [[papers/vla/progressvla-progress-guided-diffusion-policy-vla-manipulation]] — ProgressVLA: Progress-Guided Diffusion Policy for Vision-Language Robotic Manipulation (2026-03-29) #VLA
+- [[papers/vla/atomvla-scalable-post-training-robotic-manipulation-predictive-latent-world-models]] — AtomVLA: Scalable Post-Training for Robotic Manipulation via Predictive Latent World Models (2026-03-10) #VLA
+- [[papers/world-models/v-jepa-21-unlocking-dense-features-video-self-supervised-learning]] — V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning (2026-03-15) #WorldModels
+- [[papers/rl-robotics/sole-r1-video-language-reasoning-sole-reward-on-robot-rl]] — SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning (2026-03-28) #RL-Robotics
+- [[papers/vla/pi07-steerable-generalist-robotic-foundation-model]] — π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities (2026-04-16) #VLA
+- [[papers/vla/hex-humanoid-aligned-experts-cross-embodiment-whole-body-manipulation]] — HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation (2026-04-09) #VLA
+- [[papers/vla/echo-continuous-hierarchical-memory-vla-long-horizon]] — ECHO: Continuous Hierarchical Memory for Vision-Language-Action Models (2026-05-01) #VLA
+- [[papers/rl-robotics/vla-continual-learning-real-world-without-forgetting]] — Can VLA Models Learn from Real-World Data Continually without Forgetting? (2026-05-26) #RL-Robotics
+- [[papers/vla/ahead-intercepting-the-future-latent-space-predictive-world-model-dynamic-vla]] — Intercepting the Future: Latent-Space Predictive World Model for Dynamic VLA Manipulation (2026-06-01) #VLA
 <!-- INDEX_END -->
 
 ---
@@ -64,8 +75,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-05-06-weekly-digest]] — Weekly Digest 2026-05-06 (8 new entries)
 - [[digests/2026-05-11-weekly-digest]] — Weekly Digest 2026-05-11 (8 new entries)
 - [[digests/2026-05-18-weekly-digest]] — Weekly Digest 2026-05-18 (11 new entries)
+- [[digests/2026-06-04-weekly-digest]] — Weekly Digest 2026-06-04 (11 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-05-18*
+*Last updated: 2026-06-04*
