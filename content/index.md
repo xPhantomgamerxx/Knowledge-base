@@ -64,6 +64,13 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/vla/echo-continuous-hierarchical-memory-vla-long-horizon]] — ECHO: Continuous Hierarchical Memory for Vision-Language-Action Models (2026-05-01) #VLA
 - [[papers/rl-robotics/vla-continual-learning-real-world-without-forgetting]] — Can VLA Models Learn from Real-World Data Continually without Forgetting? (2026-05-26) #RL-Robotics
 - [[papers/vla/ahead-intercepting-the-future-latent-space-predictive-world-model-dynamic-vla]] — Intercepting the Future: Latent-Space Predictive World Model for Dynamic VLA Manipulation (2026-06-01) #VLA
+- [[papers/vla/tempovla-speed-controllable-vla-policies]] — TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies (2026-06-04) #VLA
+- [[papers/world-models/oscar-omni-embodiment-action-conditioned-world-model]] — OSCAR: Omni-Embodiment Action-Conditioned World Model for Robotics (2026-06-04) #WorldModels
+- [[papers/world-models/robodream-compositional-world-models-robot-data-synthesis]] — RoboDream: Compositional World Models for Scalable Robot Data Synthesis (2026-06-01) #WorldModels
+- [[papers/world-models/raw-dream-reinforcing-vlas-task-agnostic-world-models]] — RAW-Dream: Reinforcing VLAs in Task-Agnostic World Models (2026-05-12) #WorldModels
+- [[papers/world-models/geosem-wam-geometry-semantic-aware-world-action-models]] — GeoSem-WAM: Geometry- and Semantic-Aware World Action Models (2026-06-02) #WorldModels
+- [[papers/rl-robotics/flowpro-reward-free-reinforced-finetuning-flow-matching-vlas]] — FlowPRO: Reward-Free Reinforced Fine-Tuning of Flow-Matching VLAs via Proximalized Preference Optimization (2026-06-03) #RL-Robotics
+- [[papers/rl-robotics/accerl-distributed-async-rl-world-model-framework-vla]] — AcceRL: A Distributed Asynchronous Reinforcement Learning and World Model Framework for VLAs (2026-03-18) #RL-Robotics
 <!-- INDEX_END -->
 
 ---
@@ -76,8 +83,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-05-11-weekly-digest]] — Weekly Digest 2026-05-11 (8 new entries)
 - [[digests/2026-05-18-weekly-digest]] — Weekly Digest 2026-05-18 (11 new entries)
 - [[digests/2026-06-04-weekly-digest]] — Weekly Digest 2026-06-04 (11 new entries)
+- [[digests/2026-06-08-weekly-digest]] — Weekly Digest 2026-06-08 (7 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-06-04*
+*Last updated: 2026-06-08*
