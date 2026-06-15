@@ -71,6 +71,17 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/world-models/geosem-wam-geometry-semantic-aware-world-action-models]] — GeoSem-WAM: Geometry- and Semantic-Aware World Action Models (2026-06-02) #WorldModels
 - [[papers/rl-robotics/flowpro-reward-free-reinforced-finetuning-flow-matching-vlas]] — FlowPRO: Reward-Free Reinforced Fine-Tuning of Flow-Matching VLAs via Proximalized Preference Optimization (2026-06-03) #RL-Robotics
 - [[papers/rl-robotics/accerl-distributed-async-rl-world-model-framework-vla]] — AcceRL: A Distributed Asynchronous Reinforcement Learning and World Model Framework for VLAs (2026-03-18) #RL-Robotics
+- [[papers/vla/seetraceact-visibility-aware-latent-planning-cross-embodiment-demos]] — SeeTraceAct: Visibility-Aware Latent Planning from Cross-Embodiment Demonstration Videos (2026-06-01) #VLA
+- [[papers/world-models/tau0-wm-unified-video-action-world-model-agibot]] — τ₀-WM: A Unified Video-Action World Model for Robotic Manipulation (2026-06-01) #WorldModels
+- [[papers/vla/3dthinkvla-latent-3d-priors-vla-co-training]] — 3DThinkVLA: Endowing Vision-Language-Action Models with Latent 3D Priors via 3D-Thinking-Guided Co-training (2026-06-04) #VLA
+- [[papers/vla/affordancevla-affordance-aware-vla-action-generation]] — AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding (2026-06-05) #VLA
+- [[papers/world-models/motionwam-foundation-world-action-model-humanoid-loco-manipulation]] — MotionWAM: Towards Foundation World Action Models for Real-Time Humanoid Loco-Manipulation (2026-06-08) #WorldModels
+- [[papers/world-models/targeting-world-models-adversarial-robot-learning-pipelines]] — Targeting World Models to Compromise Robot Learning Pipelines (2026-06-08) #WorldModels
+- [[papers/vla/memoryvla-plus-plus-temporal-modeling-memory-imagination-vla]] — MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models (2026-06-08) #VLA
+- [[papers/vla/hierarchical-vla-agents-orchestrating-robot-policies]] — What Matters in Orchestrating Robot Policies: A Systematic Study of Hierarchical VLA Agents (2026-06-09) #VLA
+- [[papers/rl-robotics/sarm2-stage-aware-reward-modeling-self-improving-robot-manipulation]] — SARM2: Multi-Task Stage Aware Reward Modeling for Self Improving Robotic Manipulation (2026-06-09) #RL-Robotics
+- [[papers/world-models/making-foresight-actionable-agra-representation-alignment-wam]] — Making Foresight Actionable: Repurposing Representation Alignment in World Action Models (2026-06-10) #WorldModels
+- [[papers/world-models/repwam-world-action-modeling-representation-visual-action-tokenizers]] — RepWAM: World Action Modeling with Representation Visual-Action Tokenizers (2026-06-11) #WorldModels
 <!-- INDEX_END -->
 
 ---
@@ -84,8 +95,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-05-18-weekly-digest]] — Weekly Digest 2026-05-18 (11 new entries)
 - [[digests/2026-06-04-weekly-digest]] — Weekly Digest 2026-06-04 (11 new entries)
 - [[digests/2026-06-08-weekly-digest]] — Weekly Digest 2026-06-08 (7 new entries)
+- [[digests/2026-06-15-weekly-digest]] — Weekly Digest 2026-06-15 (11 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-06-08*
+*Last updated: 2026-06-15*
