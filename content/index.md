@@ -82,6 +82,20 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/rl-robotics/sarm2-stage-aware-reward-modeling-self-improving-robot-manipulation]] — SARM2: Multi-Task Stage Aware Reward Modeling for Self Improving Robotic Manipulation (2026-06-09) #RL-Robotics
 - [[papers/world-models/making-foresight-actionable-agra-representation-alignment-wam]] — Making Foresight Actionable: Repurposing Representation Alignment in World Action Models (2026-06-10) #WorldModels
 - [[papers/world-models/repwam-world-action-modeling-representation-visual-action-tokenizers]] — RepWAM: World Action Modeling with Representation Visual-Action Tokenizers (2026-06-11) #WorldModels
+- [[papers/world-models/playworld-robot-world-models-autonomous-play]] — PlayWorld: Learning Robot World Models from Autonomous Play (2026-03-09) #WorldModels
+- [[papers/world-models/world-action-verifier-self-improving-forward-inverse-asymmetry]] — World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry (2026-04-02) #WorldModels
+- [[papers/world-models/weaver-effective-world-model-robotic-manipulation]] — WEAVER, Better, Faster, Longer: An Effective World Model for Robotic Manipulation (2026-06-11) #WorldModels
+- [[papers/world-models/world-models-robotic-manipulation-survey]] — World Models for Robotic Manipulation: A Survey (2026-06-01) #WorldModels
+- [[papers/world-models/memorywam-efficient-world-action-modeling-persistent-memory]] — MemoryWAM: Efficient World Action Modeling with Persistent Memory (2026-06-18) #WorldModels
+- [[papers/vla/dexora-open-source-vla-bimanual-dexterity]] — Dexora: Open-source VLA for High-DoF Bimanual Dexterity (2026-05-18) #VLA
+- [[papers/vla/from-human-videos-to-robot-manipulation-survey]] — From Human Videos to Robot Manipulation: A Survey on Scalable VLA Learning with Human-Centric Data (2026-05-18) #VLA
+- [[papers/vla/agentic-vla-efficient-online-adaptation]] — Agentic-VLA: Efficient Online Adaptation for Vision-Language-Action Models (2026-05-21) #VLA
+- [[papers/vla/labvla-grounding-vla-scientific-laboratories]] — LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories (2026-06-11) #VLA
+- [[papers/vla/thinkingvla-interleaved-vision-language-reasoning]] — ThinkingVLA: Interleaved Vision and Language Reasoning for Robotic Manipulation (2026-06-16) #VLA
+- [[papers/vla/finetuning-vla-fewer-layers]] — Finetuning Vision-Language-Action Models Requires Fewer Layers Than You Think (2026-06-18) #VLA
+- [[papers/rl-robotics/mpc-guided-rl-humanoid-locomotion-manipulation]] — Accelerating and Scaling MPC-Guided Reinforcement Learning for Humanoid Locomotion and Manipulation (2026-06-04) #RL-Robotics
+- [[papers/rl-robotics/rove-human-interventions-humanoid-manipulation-rl]] — ROVE: Unlocking Human Interventions for Humanoid Manipulation via Reinforcement Learning (2026-06-15) #RL-Robotics
+- [[papers/rl-robotics/playful-agentic-robot-learning-rats]] — Playful Agentic Robot Learning (RATs) (2026-06-17) #RL-Robotics
 <!-- INDEX_END -->
 
 ---
@@ -96,8 +110,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-06-04-weekly-digest]] — Weekly Digest 2026-06-04 (11 new entries)
 - [[digests/2026-06-08-weekly-digest]] — Weekly Digest 2026-06-08 (7 new entries)
 - [[digests/2026-06-15-weekly-digest]] — Weekly Digest 2026-06-15 (11 new entries)
+- [[digests/2026-06-22-weekly-digest]] — Weekly Digest 2026-06-22 (14 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-06-15*
+*Last updated: 2026-06-22*
