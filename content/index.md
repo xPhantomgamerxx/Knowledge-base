@@ -96,6 +96,19 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/rl-robotics/mpc-guided-rl-humanoid-locomotion-manipulation]] — Accelerating and Scaling MPC-Guided Reinforcement Learning for Humanoid Locomotion and Manipulation (2026-06-04) #RL-Robotics
 - [[papers/rl-robotics/rove-human-interventions-humanoid-manipulation-rl]] — ROVE: Unlocking Human Interventions for Humanoid Manipulation via Reinforcement Learning (2026-06-15) #RL-Robotics
 - [[papers/rl-robotics/playful-agentic-robot-learning-rats]] — Playful Agentic Robot Learning (RATs) (2026-06-17) #RL-Robotics
+- [[papers/vla/qwen-vla-unifying-vision-language-action-modeling]] — Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments (2026-05-29) #VLA
+- [[papers/vla/robots-need-more-than-vla-and-world-models]] — Robots Need More than VLA and World Models (2026-06-04) #VLA
+- [[papers/vla/geometric-action-model-robot-policy-learning]] — Geometric Action Model for Robot Policy Learning (2026-06-15) #VLA
+- [[papers/vla/la4vla-learning-to-act-without-seeing]] — LA4VLA: Learning to Act without Seeing via Language-Action Pretraining (2026-06-25) #VLA
+- [[papers/world-models/nvidia-cosmos-3-omnimodal-world-models-physical-ai]] — Cosmos 3: Omnimodal World Models for Physical AI (2026-06-02) #WorldModels
+- [[papers/world-models/veo-act-frontier-video-models-robot-manipulation]] — Veo-Act: How Far Can Frontier Video Models Advance Generalizable Robot Manipulation? (2026-04-06) #WorldModels
+- [[papers/world-models/oa-wam-object-addressable-world-action-model]] — OA-WAM: Object-Addressable World Action Model for Robust Robot Manipulation (2026-05-07) #WorldModels
+- [[papers/world-models/flash-wam-modality-aware-distillation-world-action-models]] — Flash-WAM: Modality-Aware Distillation for World Action Models (2026-06-03) #WorldModels
+- [[papers/world-models/aha-wam-asynchronous-horizon-adaptive-world-action-modeling]] — AHA-WAM: Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing (2026-06-10) #WorldModels
+- [[papers/world-models/efficient-wam-1b-low-cost-future-imagination]] — Efficient-WAM: A 1B-Parameter World-Action Model with Low-Cost Future Imagination (2026-06-11) #WorldModels
+- [[papers/world-models/kairos-native-world-model-stack-physical-ai]] — Kairos: A Native World Model Stack for Physical AI (2026-06-15) #WorldModels
+- [[papers/world-models/imagewam-image-editing-vs-video-generation-world-action-models]] — ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing? (2026-06-19) #WorldModels
+- [[papers/rl-robotics/march-model-assisted-rl-humanoid-perceptive-control-sparse-footholds]] — MARCH: Model-Assisted Reinforcement Learning for the Perceptive Control of Humanoids over Sparse Footholds (2026-06-09) #RL-Robotics
 <!-- INDEX_END -->
 
 ---
@@ -111,8 +124,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-06-08-weekly-digest]] — Weekly Digest 2026-06-08 (7 new entries)
 - [[digests/2026-06-15-weekly-digest]] — Weekly Digest 2026-06-15 (11 new entries)
 - [[digests/2026-06-22-weekly-digest]] — Weekly Digest 2026-06-22 (14 new entries)
+- [[digests/2026-06-29-weekly-digest]] — Weekly Digest 2026-06-29 (13 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-06-22*
+*Last updated: 2026-06-29*
