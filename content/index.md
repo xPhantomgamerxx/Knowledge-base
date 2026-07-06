@@ -109,6 +109,23 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/world-models/kairos-native-world-model-stack-physical-ai]] — Kairos: A Native World Model Stack for Physical AI (2026-06-15) #WorldModels
 - [[papers/world-models/imagewam-image-editing-vs-video-generation-world-action-models]] — ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing? (2026-06-19) #WorldModels
 - [[papers/rl-robotics/march-model-assisted-rl-humanoid-perceptive-control-sparse-footholds]] — MARCH: Model-Assisted Reinforcement Learning for the Perceptive Control of Humanoids over Sparse Footholds (2026-06-09) #RL-Robotics
+- [[papers/vla/loopvla-recurrent-refinement-vla-models]] — LoopVLA: Learning Sufficiency in Recurrent Refinement for Vision-Language-Action Models (2026-05-09) #VLA
+- [[papers/vla/intentvla-short-horizon-intent-modeling-aliased-robot-manipulation]] — IntentVLA: Short-Horizon Intent Modeling for Aliased Robot Manipulation (2026-05-14) #VLA
+- [[papers/vla/vla-pro-cross-task-procedural-memory-transfer]] — VLA-Pro: Cross-Task Procedural Memory Transfer for Vision-Language-Action Models (2026-05-29) #VLA
+- [[papers/world-models/echo-memory-controlled-study-memory-action-world-models]] — Echo-Memory: A Controlled Study of Memory in Action World Models (2026-06-08) #WorldModels
+- [[papers/world-models/himem-wam-hierarchical-memory-gated-world-action-models]] — HiMem-WAM: Hierarchical Memory-Gated World Action Models for Robotic Manipulation (2026-06-10) #WorldModels
+- [[papers/vla/apt-action-expert-pretraining-vla-instruction-generalization]] — APT: Action Expert Pretraining Improves Instruction Generalization of Vision-Language-Action Policies (2026-06-10) #VLA
+- [[papers/rl-robotics/rho-coding-agent-roboticist-neurosymbolic-policies]] — RHO: Your Coding Agent is Secretly a Roboticist (2026-06-16) #RL-Robotics
+- [[papers/vla/last-hd-latent-physical-reasoning-scalable-human-data]] — LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation (2026-06-23) #VLA
+- [[papers/vla/learning-action-priors-cross-embodiment-robot-manipulation]] — Learning Action Priors for Cross-embodiment Robot Manipulation (2026-06-26) #VLA
+- [[papers/world-models/orca-world-foundation-model-multimodal-world-signals]] — Orca: The World is in Your Mind (2026-06-30) #WorldModels
+- [[papers/rl-robotics/aspire-agentic-skills-discovery-robotics]] — ASPIRE: Agentic Skills Discovery for Robotics (2026-06-30) #RL-Robotics
+- [[papers/world-models/abot-m05-unified-mobility-manipulation-world-action-model]] — ABot-M0.5: Unified Mobility-and-Manipulation World Action Model (2026-07-01) #WorldModels
+- [[papers/world-models/roboworld-neural-simulators-generalist-robot-policy-evaluation]] — RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation (2026-07-01) #WorldModels
+- [[papers/vla/neuro-symbolic-safety-guidance-vla-constrained-flow-matching]] — Neuro-Symbolic Safety Guidance for Vision-Language-Action Models via Constrained Flow Matching (2026-07-01) #VLA
+- [[papers/rl-robotics/last-r1-reinforcing-manipulation-adaptive-physical-latent-reasoning]] — LaST-R1: Reinforcing Robotic Manipulation via Adaptive Physical Latent Reasoning (2026-04-28) #RL-Robotics
+- [[papers/world-models/worldsample-closed-loop-real-robot-rl-world-modelling]] — WorldSample: Closed-loop Real-robot RL with World Modelling (2026-07-02) #WorldModels
+- [[papers/rl-robotics/one-demonstration-enough-real-world-robotic-rl]] — One Demonstration Is Enough for Real-World Robotic Reinforcement Learning (2026-07-02) #RL-Robotics
 <!-- INDEX_END -->
 
 ---
@@ -125,8 +142,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-06-15-weekly-digest]] — Weekly Digest 2026-06-15 (11 new entries)
 - [[digests/2026-06-22-weekly-digest]] — Weekly Digest 2026-06-22 (14 new entries)
 - [[digests/2026-06-29-weekly-digest]] — Weekly Digest 2026-06-29 (13 new entries)
+- [[digests/2026-07-06-weekly-digest]] — Weekly Digest 2026-07-06 (17 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-06-29*
+*Last updated: 2026-07-06*
