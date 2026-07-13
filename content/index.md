@@ -126,6 +126,18 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/rl-robotics/last-r1-reinforcing-manipulation-adaptive-physical-latent-reasoning]] — LaST-R1: Reinforcing Robotic Manipulation via Adaptive Physical Latent Reasoning (2026-04-28) #RL-Robotics
 - [[papers/world-models/worldsample-closed-loop-real-robot-rl-world-modelling]] — WorldSample: Closed-loop Real-robot RL with World Modelling (2026-07-02) #WorldModels
 - [[papers/rl-robotics/one-demonstration-enough-real-world-robotic-rl]] — One Demonstration Is Enough for Real-World Robotic Reinforcement Learning (2026-07-02) #RL-Robotics
+- [[papers/vla/embodied-r15-evolving-physical-intelligence-foundation-models]] — Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models (2026-06-11) #VLA
+- [[papers/rl-robotics/taccorl-tactile-feedback-vla-simulation-cotraining]] — TacCoRL: Integrating Tactile Feedback into VLA via Simulation Co-Training and RL (2026-06-10) #RL-Robotics
+- [[papers/vla/policytrim-intrinsic-policy-efficiency-vla-rl]] — PolicyTrim: Boosting Intrinsic Policy Efficiency of Vision-Language-Action Models (2026-06-26) #VLA
+- [[papers/rl-robotics/dvla-rl-reinforcement-learning-denoising-trajectories-discrete-diffusion-vla]] — dVLA-RL: Reinforcement Learning over Denoising Trajectories for Discrete Diffusion VLAs (2026-06-23) #RL-Robotics
+- [[papers/world-models/from-world-models-to-world-action-models-tutorial-robotics]] — From World Models to World Action Models: A Concise Tutorial for Robotics (2026-07-01) #WorldModels
+- [[papers/vla/embodied-cpp-portable-inference-runtime-vla-wam]] — Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots (2026-07-02) #VLA
+- [[papers/world-models/dswam-dual-system-world-action-foundation-model-fine-grained-manipulation]] — DSWAM: A Dual-System World Action Foundation Model for Fine-Grained Robot Manipulation (2026-07-06) #WorldModels
+- [[papers/vla/lerobot-v060-world-model-policies-open-robotics]] — LeRobot v0.6.0: Imagine, Evaluate, Improve — World Model Policies for Open Robotics (2026-07-07) #VLA
+- [[papers/vla/lift3d-vla-3d-geometry-dynamics-aware-vla]] — Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation (2026-07-07) #VLA
+- [[papers/world-models/rynnworld-teleop-action-conditioned-world-model-digital-teleoperation]] — RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation (2026-07-07) #WorldModels
+- [[papers/world-models/rynnworld-4d-4d-embodied-world-model-robotic-manipulation]] — RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation (2026-07-08) #WorldModels
+- [[papers/vla/lingbot-vla-20-open-source-cross-embodiment]] — LingBot-VLA 2.0: Open-Source Cross-Embodiment VLA for Universal Robot Control (2026-07-08) #VLA
 <!-- INDEX_END -->
 
 ---
@@ -143,8 +155,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-06-22-weekly-digest]] — Weekly Digest 2026-06-22 (14 new entries)
 - [[digests/2026-06-29-weekly-digest]] — Weekly Digest 2026-06-29 (13 new entries)
 - [[digests/2026-07-06-weekly-digest]] — Weekly Digest 2026-07-06 (17 new entries)
+- [[digests/2026-07-13-weekly-digest]] — Weekly Digest 2026-07-13 (12 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-07-06*
+*Last updated: 2026-07-13*
