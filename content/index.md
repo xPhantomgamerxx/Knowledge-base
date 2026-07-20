@@ -138,6 +138,15 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/world-models/rynnworld-teleop-action-conditioned-world-model-digital-teleoperation]] — RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation (2026-07-07) #WorldModels
 - [[papers/world-models/rynnworld-4d-4d-embodied-world-model-robotic-manipulation]] — RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation (2026-07-08) #WorldModels
 - [[papers/vla/lingbot-vla-20-open-source-cross-embodiment]] — LingBot-VLA 2.0: Open-Source Cross-Embodiment VLA for Universal Robot Control (2026-07-08) #VLA
+- [[papers/vla/drop-then-recovery-vla-redundancy-language-backbone]] — Drop-Then-Recovery: How Redundant Are Vision-Language-Action Models? (2026-06-27) #VLA
+- [[papers/vla/vla-corrector-detect-correct-inference-adaptive-action-horizon]] — VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon (2026-07-01) #VLA
+- [[papers/world-models/taco-tactile-world-model-vla-post-training]] — TACO: TActile World Model as a Self-COrrector for Scalable VLA Post-Training (2026-07-03) #WorldModels
+- [[papers/vla/harness-vla-memory-guided-agents-frozen-vla]] — Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents (2026-07-14) #VLA
+- [[papers/rl-robotics/dexverse-modular-benchmark-multi-task-dexterous-manipulation]] — DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation (2026-07-14) #RL-Robotics
+- [[papers/world-models/xiaomi-robotics-u0-embodied-synthesis-world-foundation-model]] — Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model (2026-07-14) #WorldModels
+- [[papers/world-models/nvidia-cosmos-3-edge-ondevice-world-model-jetson]] — NVIDIA Cosmos 3 Edge: On-Device World Foundation Model for Physical AI (2026-07-16) #WorldModels
+- [[papers/rl-robotics/never-too-late-for-force-reactive-force-injection-vla]] — Never Too Late for Force: Accelerating VLA Post-Training with Reactive Force Injection (2026-07-17) #RL-Robotics
+- [[papers/vla/reflex-real-time-vla-streaming-inference]] — Reflex: Real-Time VLA Control through Streaming Inference (2026-07-18) #VLA
 <!-- INDEX_END -->
 
 ---
@@ -156,8 +165,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-06-29-weekly-digest]] — Weekly Digest 2026-06-29 (13 new entries)
 - [[digests/2026-07-06-weekly-digest]] — Weekly Digest 2026-07-06 (17 new entries)
 - [[digests/2026-07-13-weekly-digest]] — Weekly Digest 2026-07-13 (12 new entries)
+- [[digests/2026-07-20-weekly-digest]] — Weekly Digest 2026-07-20 (9 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-07-13*
+*Last updated: 2026-07-20*
