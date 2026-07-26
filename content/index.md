@@ -147,6 +147,28 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/world-models/nvidia-cosmos-3-edge-ondevice-world-model-jetson]] — NVIDIA Cosmos 3 Edge: On-Device World Foundation Model for Physical AI (2026-07-16) #WorldModels
 - [[papers/rl-robotics/never-too-late-for-force-reactive-force-injection-vla]] — Never Too Late for Force: Accelerating VLA Post-Training with Reactive Force Injection (2026-07-17) #RL-Robotics
 - [[papers/vla/reflex-real-time-vla-streaming-inference]] — Reflex: Real-Time VLA Control through Streaming Inference (2026-07-18) #VLA
+- [[papers/vla/expo-ft-sample-efficient-rl-finetuning-vla]] — EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models (2026-05-30) #VLA
+- [[papers/humanoid/legs-teleop-free-vla-humanoid-gaussian-splatting-world]] — LEGS: Fine-Tuning Teleop-Free VLAs for Humanoid Loco-manipulation in an Embodied Gaussian Splatting World (2026-05-31) #Humanoid
+- [[papers/humanoid/boston-dynamics-atlas-training-humanoid-hard-work]] — Training a Humanoid Robot for Hard Work (2026-05-18) #Humanoid
+- [[papers/vla/ttt-vla-test-time-latent-prompt-optimization]] — TTT-VLA: Test-Time Latent Prompt Optimization for Vision-Language-Action Models (2026-06-02) #VLA
+- [[papers/world-models/mu0-scalable-3d-interaction-trace-world-model]] — μ0: A Scalable 3D Interaction-Trace World Model (2026-06-13) #WorldModels
+- [[papers/rl-robotics/enpire-agentic-robot-policy-self-improvement-real-world]] — ENPIRE: Agentic Robot Policy Self-Improvement in the Real World (2026-06-17) #RL-Robotics
+- [[papers/vla/retrieve-dont-retrain-vla-new-tasks-test-time]] — Retrieve, Don't Retrain: Extending Vision Language Action Models to New Tasks at Test Time (2026-06-18) #VLA
+- [[papers/vla/force-efficient-vla-rl-value-calibrated-warmup]] — FORCE: Efficient VLA Reinforcement Fine-Tuning via Value-Calibrated Warm-up and Self-Distillation (2026-06-24) #VLA
+- [[papers/vla/supervise-what-survives-geometry-guided-vla-adaptation-synthetic-video]] — Supervise What Survives: Geometry-Guided VLA Adaptation from Synthetic Robot Videos (2026-06-24) #VLA
+- [[papers/humanoid/humanoidumi-robot-free-demonstrations-humanoid-whole-body-manipulation]] — HumanoidUMI: Bridging Robot-Free Demonstrations and Humanoid Whole-Body Manipulation (2026-06-25) #Humanoid
+- [[papers/rl-robotics/sarl-semantic-reinforcement-learning-generalist-robot-policies]] — Adapting Generalist Robot Policies with Semantic Reinforcement Learning (SARL) (2026-06-26) #RL-Robotics
+- [[papers/rl-robotics/freeform-preference-learning-robotic-manipulation]] — Freeform Preference Learning for Robotic Manipulation (2026-06-26) #RL-Robotics
+- [[papers/rl-robotics/trust-your-instincts-confidence-driven-test-time-rl-vla]] — Trust Your Instincts: Confidence-Driven Test-Time RL for Vision-Language-Action Models (2026-06-29) #RL-Robotics
+- [[papers/vla/z1-efficient-rl-vla]] — Z-1: Efficient Reinforcement Learning for Vision-Language-Action Models (2026-06-30) #VLA
+- [[papers/world-models/gigaworld-1-world-models-robot-policy-evaluation]] — GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation (2026-07-02) #WorldModels
+- [[papers/rl-robotics/leveraging-offline-supervision-rl-large-scale-vla]] — Leveraging Offline Supervision for Efficient and Generalizable Reinforcement Learning in Large-Scale Vision-Language-Action Models (2026-07-06) #RL-Robotics
+- [[papers/world-models/temporal-ratio-video-action-generalization-gap]] — Understanding and Mitigating the Video-Action Generalization Gap via Temporal Ratio (2026-07-08) #WorldModels
+- [[papers/vla/flowdagger-human-in-the-loop-latent-space-policy-adaptation]] — FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space (2026-07-09) #VLA
+- [[papers/humanoid/1x-neo-hands-tendon-driven-dexterous-hand]] — 1X NEO Hands — 25-DoF tendon-driven, force-transparent dexterous hand (2026-07-09) #Humanoid
+- [[papers/vla/robottt-context-scaling-robot-policies]] — RoboTTT: Context Scaling for Robot Policies (2026-07-15) #VLA
+- [[papers/vla/rynnbrain-11-embodied-foundation-model]] — RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model (2026-07-20) #VLA
+- [[papers/world-models/world-labs-acquires-scenix]] — World Labs Acquires SceniX (2026-07-21) #WorldModels
 <!-- INDEX_END -->
 
 ---
@@ -166,8 +188,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-07-06-weekly-digest]] — Weekly Digest 2026-07-06 (17 new entries)
 - [[digests/2026-07-13-weekly-digest]] — Weekly Digest 2026-07-13 (12 new entries)
 - [[digests/2026-07-20-weekly-digest]] — Weekly Digest 2026-07-20 (9 new entries)
+- [[digests/2026-07-26-weekly-digest]] — Weekly Digest 2026-07-26 (22 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-07-20*
+*Last updated: 2026-07-26*
