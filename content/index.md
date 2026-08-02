@@ -169,6 +169,32 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/vla/robottt-context-scaling-robot-policies]] — RoboTTT: Context Scaling for Robot Policies (2026-07-15) #VLA
 - [[papers/vla/rynnbrain-11-embodied-foundation-model]] — RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model (2026-07-20) #VLA
 - [[papers/world-models/world-labs-acquires-scenix]] — World Labs Acquires SceniX (2026-07-21) #WorldModels
+- [[papers/vla/gemini-robotics-2-whole-body-intelligence]] — Gemini Robotics 2: whole-body VLA release for humanoids (2026-07-30) #VLA
+- [[papers/vla/nvidia-isaac-groot-lerobot-teleop-integration]] — NVIDIA Isaac GR00T comes to LeRobot: end-to-end humanoid VLA workflow with Isaac Teleop (2026-07-07) #VLA
+- [[papers/vla/what-to-ignore-what-to-react-visually-robust-rl-vla]] — What to Ignore, What to React: Visually Robust RL Fine-Tuning of VLA Models (2026-05-13) #VLA
+- [[papers/vla/hand-in-the-loop-dexterous-vla-intervention]] — Hand-in-the-Loop: Improving VLA Policies for Dexterous Manipulation via Seamless Hand-Arm Intervention (2026-05-15) #VLA
+- [[papers/vla/learning-from-history-test-time-verification-adaptation-robotics]] — Learning From History: Test-Time Verification and Adaptation for Robotics (HAVE) (2026-07-06) #VLA
+- [[papers/vla/far-failure-aware-retry-test-time-recovery]] — FAR: Failure-Aware Retry for Test-Time Recovery and Continual Policy Improvement (2026-07-01) #VLA
+- [[papers/vla/axis-community-data-engine-robot-manipulation]] — AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation (2026-07-21) #VLA
+- [[papers/vla/furniturevla-bimanual-furniture-assembly]] — FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model (2026-07-01) #VLA
+- [[papers/vla/tau-touch-augmented-vla-future-visual-supervision]] — τ: Learning Touch-Augmented Vision-Language-Action Models from Future Visual Supervision (2026-07-28) #VLA
+- [[papers/vla/t3vf-test-time-training-visual-foresight-vla]] — T³VF: Test-Time Training for Visual Foresight Vision-Language-Action Models (2026-05-06) #VLA
+- [[papers/world-models/test-time-scaling-world-action-models-geometric-verification]] — Test-Time Scaling for World Action Models via Zero-Shot Geometric Verification (2026-07-17) #WorldModels
+- [[papers/world-models/decart-oasis-3-real-time-world-model]] — Decart Oasis 3: real-time interactive world model for driving/robotics simulation (2026-06-10) #WorldModels
+- [[papers/world-models/world-labs-real-to-sim-to-real-robot-training]] — World Labs: Building Worlds That Train Robots (Real-to-Sim-to-Real) (2026-07-28) #WorldModels
+- [[papers/world-models/definition-roadmap-world-models]] — A Definition and Roadmap for World Models (2026-07-07) #WorldModels
+- [[papers/world-models/sword-style-robust-world-models-vla-post-training]] — Sword: Style-Robust World Models as Simulators via Dynamic Latent Bootstrapping for VLA Policy Post-Training (2026-05-08) #WorldModels
+- [[papers/rl-robotics/learning-while-deploying-fleet-scale-rl-generalist-robot-policies]] — Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies (2026-05-01) #RL-Robotics
+- [[papers/rl-robotics/ohp-rl-online-human-preference-guidance-rl-manipulation]] — OHP-RL: Online Human Preference as Guidance in Reinforcement Learning for Robot Manipulation (2026-05-15) #RL-Robotics
+- [[papers/rl-robotics/pact-preference-calibrated-human-in-the-loop-rl]] — PACT: Preference-Calibrated Human-in-the-Loop Reinforcement Learning for Robotic Manipulation (2026-06-03) #RL-Robotics
+- [[papers/rl-robotics/flow-reversal-steering-generalist-robot-policies]] — Improving Robotic Generalist Policies via Flow Reversal Steering (2026-06-13) #RL-Robotics
+- [[papers/rl-robotics/from-demonstrations-to-rewards-test-time-prompt-optimization-vlm-reward]] — From Demonstrations to Rewards: Test-Time Prompt Optimization for VLM Reward Models (2026-06-01) #RL-Robotics
+- [[papers/humanoid/rldx-1-multi-stream-action-transformer-humanoid]] — RLDX-1 Technical Report (2026-05-06) #Humanoid
+- [[papers/humanoid/oasis-sim-data-collection-humanoid-loco-manipulation]] — OASIS: From Simulation Data Collection to Real-World Humanoid Loco-Manipulation (2026-06-07) #Humanoid
+- [[papers/humanoid/1x-world-model-lab-launch]] — 1X launches humanoid robot World Model Lab (2026-06-04) #Humanoid
+- [[papers/humanoid/scaling-behavior-foundation-model-humanoid-robots]] — Scaling Behavior Foundation Model for Humanoid Robots (2026-07-16) #Humanoid
+- [[papers/humanoid/vlk-humanoid-loco-manipulation-synthetic-interactions]] — VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes (2026-06-30) #Humanoid
+- [[papers/humanoid/agibot-world-2026-rich-interaction-dataset]] — AgiBot World 2026 — Theme 2: "Rich Interaction" Dataset (2026-06-03) #Humanoid
 <!-- INDEX_END -->
 
 ---
@@ -189,8 +215,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-07-13-weekly-digest]] — Weekly Digest 2026-07-13 (12 new entries)
 - [[digests/2026-07-20-weekly-digest]] — Weekly Digest 2026-07-20 (9 new entries)
 - [[digests/2026-07-26-weekly-digest]] — Weekly Digest 2026-07-26 (22 new entries)
+- [[digests/2026-08-02-weekly-digest]] — Weekly Digest 2026-08-02 (26 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-07-26*
+*Last updated: 2026-08-02*
