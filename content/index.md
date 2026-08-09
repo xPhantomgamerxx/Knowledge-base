@@ -195,6 +195,42 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/humanoid/scaling-behavior-foundation-model-humanoid-robots]] — Scaling Behavior Foundation Model for Humanoid Robots (2026-07-16) #Humanoid
 - [[papers/humanoid/vlk-humanoid-loco-manipulation-synthetic-interactions]] — VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes (2026-06-30) #Humanoid
 - [[papers/humanoid/agibot-world-2026-rich-interaction-dataset]] — AgiBot World 2026 — Theme 2: "Rich Interaction" Dataset (2026-06-03) #Humanoid
+- [[papers/vla/ego2robot-scalable-robot-data-synthesis-egocentric-human-data]] — Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data (2026-08-03) #VLA
+- [[papers/vla/prigo-test-time-primitive-guidance-diffusion-flow-policies]] — PriGo: Test-Time Primitive Guidance to Diffusion and Flow Policies for Adaptive Robotic Manipulation (2026-07-07) #VLA
+- [[papers/vla/retrieve-then-steer-online-success-memory-test-time-adaptation-vla]] — Retrieve-then-Steer: Online Success Memory for Test-Time Adaptation of Generative VLAs (2026-05-10) #VLA
+- [[papers/vla/wizard-robotic-policy-adaptation-weight-space-meta-learning]] — WIZARD: Robotic Policy Adaptation via Weight-Space Meta-Learning (2026-06-05) #VLA
+- [[papers/vla/set-supervised-diffusion-policy-action-chunking-corrections]] — Set-Supervised Diffusion Policy: Learning Action-Chunking Diffusion through Corrections (2026-06-01) #VLA
+- [[papers/vla/vla-ad-offline-semantic-guidance-efficient-vla-distillation]] — Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation (VLA-AD) (2026-05-16) #VLA
+- [[papers/vla/retrieval-vla-training-free-in-context-adaptation]] — Retrieval-VLA: Training-Free In-Context Adaptation for Vision-Language-Action Models (2026-06-05) #VLA
+- [[papers/vla/dypes-vla-shared-dynamics-embodiment-specific-control-cross-embodiment]] — DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation (2026-08-06) #VLA
+- [[papers/vla/cross-embodiment-transfer-behavior-aligned-representations]] — Cross-Embodiment Transfer via Behavior-Aligned Representations (2026-07-30) #VLA
+- [[papers/vla/cloak-zero-shot-cross-embodiment-masking-end-effector]] — Cloak: Zero-Shot Cross-Embodiment Manipulation by Masking the End-Effector from the VLA (2026-06-22) #VLA
+- [[papers/vla/primitivevla-reusable-motion-primitives-efficient-generalizable-manipulation]] — PrimitiveVLA: Learning Reusable Motion Primitives for Efficient and Generalizable Robotic Manipulation (2026-05-28) #VLA
+- [[papers/vla/instant-fold-in-context-imitation-learning-deformable-manipulation]] — Instant-Fold: In-Context Imitation Learning for Deformable Object Manipulation (2026-06-04) #VLA
+- [[papers/vla/generalist-ai-gen1-thousand-hands-cross-embodiment-end-effector]] — Towards Machines with a Thousand Hands: GEN-1 Cross-Embodiment End-Effector Generalization (2026-07-22) #VLA
+- [[papers/world-models/feedback-world-model-precise-guidance-diffusion-policy]] — Feedback World Model Enables Precise Guidance of Diffusion Policy (2026-05-20) #WorldModels
+- [[papers/world-models/wayve-gaia-4-multimodal-world-models-closed-loop-simulation]] — GAIA-4: Multimodal World Models Powering Closed-Loop Simulation for Safe and Scalable Autonomy (2026-08-03) #WorldModels
+- [[papers/world-models/deform360-massive-multiview-visuotactile-dataset-deformable-world-models]] — Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models (2026-07-10) #WorldModels
+- [[papers/world-models/how-should-world-models-be-evaluated-decision-making-position]] — How Should World Models Be Evaluated for Embodied Decision-Making? (2026-06-28) #WorldModels
+- [[papers/world-models/gauge-measurement-grounded-benchmark-physical-fidelity-simulation-video-world-models]] — GAUGE: A Measurement-Grounded Benchmark for Physical Fidelity in Simulation Engines and Video World Models (2026-08-05) #WorldModels
+- [[papers/world-models/vlaflow-unified-training-framework-co-training-future-latent-alignment]] — VLAFlow: A Unified Training Framework for Vision-Language-Action Models via Co-training and Future Latent Alignment (2026-07-02) #WorldModels
+- [[papers/world-models/dream-tac-unified-tactile-world-action-model-contact-rich-manipulation]] — Dream-Tac: A Unified Tactile World Action Model for Contact-Rich Robot Manipulation (2026-06-07) #WorldModels
+- [[papers/world-models/geniworld-generalizable-interactive-world-model-visual-actions]] — GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions (2026-08-06) #WorldModels
+- [[papers/world-models/omega-0-latent-predictive-world-action-model-concurrent-humanoid-loco-manipulation]] — ω₀: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation (2026-08-06) #WorldModels
+- [[papers/rl-robotics/rtcf-retrieve-in-time-correct-in-frequency-test-time-correction-vla]] — Retrieve in Time, Correct in Frequency (RTCF) (2026-08-05) #RL-Robotics
+- [[papers/rl-robotics/unintervene-agentic-intervention-efficient-real-world-rl]] — UniIntervene: Agentic Intervention for Efficient Real-World Reinforcement Learning (2026-06-15) #RL-Robotics
+- [[papers/rl-robotics/mapl-multi-objective-preference-learning-robot-locomotion]] — MAPL: Multi-Objective Preference Learning for Robot Locomotion (2026-06-29) #RL-Robotics
+- [[papers/rl-robotics/rarm-confidence-gated-progress-reward-modeling-rl-manipulation]] — RARM: Confidence-Gated Progress Reward Modeling for RL in Manipulation (2026-06-24) #RL-Robotics
+- [[papers/rl-robotics/densereward-dense-reward-learning-failure-synthesis-robotic-manipulation]] — DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation (2026-07-14) #RL-Robotics
+- [[papers/rl-robotics/progress-reward-modeling-robotic-learning-survey]] — Progress Reward Modeling for Robotic Learning: A Comprehensive Survey (2026-07-22) #RL-Robotics
+- [[papers/rl-robotics/torl-vla-tactile-guided-online-reinforcement-learning-contact-rich-manipulation]] — TORL-VLA: Tactile Guided Online Reinforcement Learning for Contact-Rich Manipulation (2026-06-10) #RL-Robotics
+- [[papers/rl-robotics/d-vla-high-concurrency-distributed-asynchronous-rl-framework]] — D-VLA: A High-Concurrency Distributed Asynchronous Reinforcement Learning Framework for Vision-Language-Action Models (2026-05-13) #RL-Robotics
+- [[papers/rl-robotics/sp3o-reinforcement-learning-segment-preferences-without-reward-modeling]] — SP3O: Reinforcement Learning from Segment Preferences without Reward Modeling (2026-08-02) #RL-Robotics
+- [[papers/humanoid/teleopit-full-embodiment-humanoid-teleoperation-system]] — Teleopit: A Full-Embodiment Humanoid Teleoperation System (2026-08-01) #Humanoid
+- [[papers/humanoid/thorarena-benchmarking-humanoid-physical-interaction-motion-force-demonstrations]] — ThorArena: Benchmarking Humanoid Physical Interaction with Human Motion-Force Demonstrations (2026-07-08) #Humanoid
+- [[papers/humanoid/heft-heavy-payload-full-size-humanoid-teleoperation-privileged-motion-guidance]] — HEFT: Heavy-Payload Full-size Humanoid Teleoperation with Privileged Motion Guidance and Windowed Payload Curriculum (2026-07-05) #Humanoid
+- [[papers/humanoid/humanoidarena-benchmarking-egocentric-hierarchical-whole-body-learning]] — HumanoidArena: Benchmarking Egocentric Hierarchical Whole-body Learning (2026-06-19) #Humanoid
+- [[papers/humanoid/light-loco-parkour-versatile-perceptive-whole-body-locomotion-multi-skill-distillation]] — Light-Loco-Parkour: Versatile Perceptive Whole-Body Locomotion via Multi-Skill Distillation (2026-08-02) #Humanoid
 <!-- INDEX_END -->
 
 ---
@@ -216,8 +252,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-07-20-weekly-digest]] — Weekly Digest 2026-07-20 (9 new entries)
 - [[digests/2026-07-26-weekly-digest]] — Weekly Digest 2026-07-26 (22 new entries)
 - [[digests/2026-08-02-weekly-digest]] — Weekly Digest 2026-08-02 (26 new entries)
+- [[digests/2026-08-09-weekly-digest]] — Weekly Digest 2026-08-09 (36 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-08-02*
+*Last updated: 2026-08-09*
