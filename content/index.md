@@ -231,6 +231,31 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/humanoid/heft-heavy-payload-full-size-humanoid-teleoperation-privileged-motion-guidance]] — HEFT: Heavy-Payload Full-size Humanoid Teleoperation with Privileged Motion Guidance and Windowed Payload Curriculum (2026-07-05) #Humanoid
 - [[papers/humanoid/humanoidarena-benchmarking-egocentric-hierarchical-whole-body-learning]] — HumanoidArena: Benchmarking Egocentric Hierarchical Whole-body Learning (2026-06-19) #Humanoid
 - [[papers/humanoid/light-loco-parkour-versatile-perceptive-whole-body-locomotion-multi-skill-distillation]] — Light-Loco-Parkour: Versatile Perceptive Whole-Body Locomotion via Multi-Skill Distillation (2026-08-02) #Humanoid
+- [[papers/vla/in-context-vla-agentic-tool-use-post-training]] — In-Context VLA: Endowing Vision-Language-Action Models with Language via In-Context Post-Training and Agentic Tool Use (2026-08-05) #VLA
+- [[papers/vla/explicit-language-memory-long-horizon-planning-vla]] — Explicit Language Memory for Long-Horizon Planning in Vision-Language-Action Models (2026-08-04) #VLA
+- [[papers/vla/handedit-embodiment-aware-image-editing-dataset-dexterous-hands]] — HandEdit: A Unified Embodiment-Aware Image-Editing Dataset and Benchmark for Dexterous Robot Hands (2026-08-12) #VLA
+- [[papers/vla/xiaomi-robotics-1-xr1-scaling-real-world-manipulation-pretraining]] — Xiaomi-Robotics-1 (XR-1): Scaling Real-World Manipulation Pretraining with Auto-Labeled UMI Data (2026-07-17) #VLA
+- [[papers/vla/crosstracer-hierarchical-cross-embodiment-navigation]] — CrossTracer: Hierarchical Cross-Embodiment Navigation via Pixel-Space Trace Proposal and Embodiment-Conditioned Correction (2026-08-08) #VLA
+- [[papers/vla/hymes-skills-in-weights-memory-in-code]] — Skills in Weights, Memory in Code: Hybrid Learning for Memory-Dependent Robot Manipulation (HyMeS) (2026-08-10) #VLA
+- [[papers/rl-robotics/bora-offline-online-residual-adaptation-dexterous-vla]] — BORA: Bridging Offline Reinforcement Learning and Online Residual Adaptation for Real-World Dexterous VLA Models (2026-05-28) #RL-Robotics
+- [[papers/rl-robotics/vista-vision-grounded-physics-validated-umi-data-vla]] — VISTA: Vision-Grounded and Physics-Validated Adaptation of UMI Data for VLA Training (2026-06-04) #RL-Robotics
+- [[papers/rl-robotics/dexpie-stable-dexterous-policy-improvement-real-world-experience]] — DexPIE: Stable Dexterous Policy Improvement from Real-World Experience (2026-06-09) #RL-Robotics
+- [[papers/rl-robotics/midas-adaptation-generalist-robot-policies-minimal-data]] — MiDAS: Adaptation of Generalist Robot Policies with Minimal Data (2026-08-10) #RL-Robotics
+- [[papers/rl-robotics/scenesmith-agentic-scene-generation-robot-training-data]] — SceneSmith: Agentic Scene Generation for Scalable Robot Training Data (2026-07-13) #RL-Robotics
+- [[papers/world-models/lila-wam-lightweight-latent-reasoning-world-action-model]] — LiLa-WAM: Lightweight Latent Reasoning World-Action Model for Robotic Manipulation (2026-08-04) #WorldModels
+- [[papers/world-models/lingbot-va-20-native-video-action-pretraining-generalizable-robot-control]] — Native Video-Action Pretraining for Generalizable Robot Control (LingBot-VA 2.0) (2026-07-09) #WorldModels
+- [[papers/world-models/adawam-adaptive-multimodal-reasoning-world-action-models]] — Dreaming when Necessary: Advancing World Action Models with Adaptive Multi-Modal Reasoning (AdaWAM) (2026-06-08) #WorldModels
+- [[papers/world-models/vera-turning-video-models-into-generalist-robot-policies]] — Turning Video Models into Generalist Robot Policies (VERA) (2026-05-28) #WorldModels
+- [[papers/world-models/efficient-sim-to-real-transfer-world-action-models-synthetic-priors]] — Efficient Sim-to-Real Transfer of World-Action Models from Synthetic Priors (2026-06-30) #WorldModels
+- [[papers/world-models/joyai-sim-simulation-interconversion-toolchain-embodied-data-pyramid]] — JoyAI-Sim: A Simulation-Enabled Interconversion Toolchain for the Embodied Data Pyramid (2026-06-17) #WorldModels
+- [[papers/world-models/contactguard-pre-contact-execution-monitoring-latent-world-models]] — ContactGuard: Pre-Contact Execution Monitoring with Action-Conditioned Latent World Models (2026-08-13) #WorldModels
+- [[papers/world-models/dreamx-phi-10-action-conditioned-video-world-model-manipulation]] — DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation (2026-08-13) #WorldModels
+- [[papers/humanoid/human-as-humanoid-zero-shot-learning-ego-exo-videos]] — Human-as-Humanoid: Enabling Zero-Shot Humanoid Learning from Ego-Exo Human Videos with Human-Aligned Embodiments (2026-06-30) #Humanoid
+- [[papers/humanoid/skild-brain-10-omni-bodied-robot-foundation-model]] — Skild Brain 1.0: An Omni-Bodied Robot Foundation Model (2026-05-20) #Humanoid
+- [[papers/humanoid/figure-ai-scaling-helix-logistics]] — Scaling Helix: A New State of the Art in Humanoid Logistics (2026-07-01) #Humanoid
+- [[papers/humanoid/figure-03-autonomous-ladder-climb]] — Figure 03 Autonomous Ladder Climb (2026-08-01) #Humanoid
+- [[papers/humanoid/labimus-humanoid-dexterous-manipulation-chemical-laboratory]] — Labimus: A Simulation and Benchmark for Humanoid Dexterous Manipulation in Chemical Laboratory (2026-06-20) #Humanoid
+- [[papers/humanoid/simple-humanoid-loco-manipulation-simulation-benchmark]] — SIMPLE: Simulation-Based Policy Learning and Evaluation for Humanoid Loco-Manipulation (2026-06-12) #Humanoid
 <!-- INDEX_END -->
 
 ---
@@ -253,8 +278,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-07-26-weekly-digest]] — Weekly Digest 2026-07-26 (22 new entries)
 - [[digests/2026-08-02-weekly-digest]] — Weekly Digest 2026-08-02 (26 new entries)
 - [[digests/2026-08-09-weekly-digest]] — Weekly Digest 2026-08-09 (36 new entries)
+- [[digests/2026-08-16-weekly-digest]] — Weekly Digest 2026-08-16 (25 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-08-09*
+*Last updated: 2026-08-16*
