@@ -256,6 +256,35 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/humanoid/figure-03-autonomous-ladder-climb]] — Figure 03 Autonomous Ladder Climb (2026-08-01) #Humanoid
 - [[papers/humanoid/labimus-humanoid-dexterous-manipulation-chemical-laboratory]] — Labimus: A Simulation and Benchmark for Humanoid Dexterous Manipulation in Chemical Laboratory (2026-06-20) #Humanoid
 - [[papers/humanoid/simple-humanoid-loco-manipulation-simulation-benchmark]] — SIMPLE: Simulation-Based Policy Learning and Evaluation for Humanoid Loco-Manipulation (2026-06-12) #Humanoid
+- [[papers/vla/eximo-vlm-guided-exploration-vla-policies]] — EXIMO: VLM Guided Exploration of VLA Policies (2026-08-20) #VLA
+- [[papers/vla/tau0-vla-hierarchical-robot-foundation-model-test-time-computation]] — τ0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation (2026-07-27) #VLA
+- [[papers/vla/stellavla-in-context-structured-demonstration-generalizable-vla]] — StellaVLA: In-Context Structured Demonstration for Generalizable Vision-Language-Action Models (2026-08-01) #VLA
+- [[papers/vla/imagining-recovery-inference-time-counterfactual-realignment-vla]] — Imagining Recovery: Inference-Time Counterfactual Realignment for Vision-Language-Action Models (2026-08-14) #VLA
+- [[papers/vla/reflex-fast-predictive-vla-reaction-critical-manipulation]] — Reflex: Enabling Fast and Predictive Vision-Language-Action Models for Reaction-Critical Manipulation (2026-08-16) #VLA
+- [[papers/vla/foca-future-oriented-conditioning-data-efficient-vla-adaptation]] — FOCA: Future-Oriented Conditioning for Data-Efficient Vision-Language-Action Adaptation (2026-06-18) #VLA
+- [[papers/vla/bridging-morphology-gap-intent-conditioned-fine-tuning-dexterous-vla]] — Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning (2026-06-10) #VLA
+- [[papers/vla/gen-15-embodied-foundation-models-one-shot-learners]] — GEN-1.5: Embodied Foundation Models are One-Shot Learners (2026-08-22) #VLA
+- [[papers/vla/hidden-in-plain-sight-diffusion-based-unrestricted-attacks-vla]] — Hidden in Plain Sight: Diffusion-Based Unrestricted Robotic Attacks on Vision-Language-Action Models (2026-08-12) #VLA
+- [[papers/world-models/egowam-world-action-models-beyond-pixels-egocentric-human-data]] — EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data (2026-07-08) #WorldModels
+- [[papers/world-models/r2rdreamer-3d-aware-data-augmentation-spatially-generalized-manipulation]] — R2RDreamer: 3D-aware Data Augmentation for Spatially-generalized 2D Manipulation Policies (2026-06-15) #WorldModels
+- [[papers/world-models/halo-wa-hybrid-attention-latent-guided-online-rl-world-action-models]] — HALO-WA: Hybrid-Attention Latent-Guided Online Reinforcement Learning for World-Action Models (2026-07-05) #WorldModels
+- [[papers/world-models/wh0-generative-world-models-scalable-egocentric-hand-manipulation-data]] — Wh0: Generative World Models as Scalable Sources of Egocentric Human Hand Manipulation Data (2026-06-30) #WorldModels
+- [[papers/world-models/wla-0-world-language-action-model-unified-world-modeling]] — World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis (2026-06-04) #WorldModels
+- [[papers/world-models/paiworld-3d-consistent-world-foundation-model-manipulation]] — PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation (2026-06-16) #WorldModels
+- [[papers/world-models/physisforcing-physics-reinforced-world-simulator-manipulation]] — PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation (2026-06-26) #WorldModels
+- [[papers/world-models/dim-wam-world-action-modeling-diverse-historical-event-memory]] — DIM-WAM: World-Action Modeling with Diverse Historical Event Memory (2026-06-26) #WorldModels
+- [[papers/rl-robotics/temporal-grpo-beyond-trajectory-level-credit-vla-rl]] — Temporal GRPO: Beyond Trajectory-Level Credit in Vision-Language-Action Reinforcement Learning (2026-08-17) #RL-Robotics
+- [[papers/rl-robotics/recovla-vlm-guided-reward-compilation-failure-recovery-vla]] — ReCoVLA: VLM-Guided Reward Compilation for Failure Recovery in Vision-Language-Action Policies (2026-06-08) #RL-Robotics
+- [[papers/rl-robotics/score-support-constrained-rl-real-world-policy-improvement]] — Support-Constrained RL Enables Real-World Policy Improvement without Real-World Experience (SCORE) (2026-06-25) #RL-Robotics
+- [[papers/rl-robotics/robot-self-improvement-human-video-dynamics-models]] — Robot Self-Improvement via Human-Video Dynamics Models (2026-06-19) #RL-Robotics
+- [[papers/rl-robotics/regrind-minimalist-retargeting-guided-rl-dexterous-manipulation]] — REGRIND: A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation (2026-07-13) #RL-Robotics
+- [[papers/humanoid/toward-certified-functional-safety-industrial-humanoid-robots]] — Toward Certified Functional Safety for Industrial Humanoid Robots: The Fail-Passive Gap and a Feasibility Study (2026-08-02) #Humanoid
+- [[papers/humanoid/whole-body-planning-humanoids-confined-spaces-self-collision-avoidance]] — Whole-Body Planning for Humanoids Navigating Confined Spaces via Self-Collision Avoidance References (2026-08-10) #Humanoid
+- [[papers/humanoid/humantracker-comprehensive-human-aligned-motion-tracking-benchmark]] — HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark (2026-08-13) #Humanoid
+- [[papers/humanoid/noitom-hiphi-617-hour-high-precision-human-motion-dataset]] — Noitom Robotics Releases HiPHI: A 617-Hour High-Precision Human Motion Dataset (2026-08-19) #Humanoid
+- [[papers/humanoid/adapt-humanoid-robots-professional-style-tennis]] — AdaPT: Humanoid Robots Learn Professional-Style Tennis (2026-08-21) #Humanoid
+- [[papers/humanoid/unitree-superman-humanoid-record-jump-sprint-speed]] — Unitree Unveils "Superman" Humanoid with Record Jump and Sprint Speed (2026-08-18) #Humanoid
+- [[papers/humanoid/agility-robotics-digit-v5]] — Agility Robotics Unveils Digit V5 (2026-08-10) #Humanoid
 <!-- INDEX_END -->
 
 ---
@@ -279,8 +308,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-08-02-weekly-digest]] — Weekly Digest 2026-08-02 (26 new entries)
 - [[digests/2026-08-09-weekly-digest]] — Weekly Digest 2026-08-09 (36 new entries)
 - [[digests/2026-08-16-weekly-digest]] — Weekly Digest 2026-08-16 (25 new entries)
+- [[digests/2026-08-23-weekly-digest]] — Weekly Digest 2026-08-23 (29 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-08-16*
+*Last updated: 2026-08-23*
