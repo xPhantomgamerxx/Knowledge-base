@@ -285,6 +285,42 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/humanoid/adapt-humanoid-robots-professional-style-tennis]] — AdaPT: Humanoid Robots Learn Professional-Style Tennis (2026-08-21) #Humanoid
 - [[papers/humanoid/unitree-superman-humanoid-record-jump-sprint-speed]] — Unitree Unveils "Superman" Humanoid with Record Jump and Sprint Speed (2026-08-18) #Humanoid
 - [[papers/humanoid/agility-robotics-digit-v5]] — Agility Robotics Unveils Digit V5 (2026-08-10) #Humanoid
+- [[papers/vla/synthicl-scalable-in-context-imitation-learning-synthetic-data]] — SynthICL: Scalable In-context Imitation Learning with Synthetic Data (2026-06-08) #VLA
+- [[papers/vla/e-tts-embodied-test-time-scaling-framework-robotic-manipulation]] — E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation (2026-06-27) #VLA
+- [[papers/vla/self-improving-vla-selected-diffusion-noise-spurious-robust-action]] — Self-Improving VLA Policies: Selected Diffusion Noise for Spurious-Robust Action Smoothing (2026-06-12) #VLA
+- [[papers/vla/logic-vla-temporal-logic-conditioned-vision-language-action-model]] — Logic-VLA: A Temporal Logic Conditioned Vision-Language-Action Model (2026-08-20) #VLA
+- [[papers/vla/vane-reliable-test-time-training-vla-future-visual-representation]] — VANE: Reliable Test-Time Training for VLA Models via Future Visual Representation Prediction (2026-08-09) #VLA
+- [[papers/vla/robosynchallenge-mastering-real-world-dexterity-synthesized-manipulation-skills]] — RoboSynChallenge: Mastering Real-World Dexterity via Generalizing Synthesized Manipulation Skills (2026-08-12) #VLA
+- [[papers/vla/elastic-efficiently-learning-adaptively-scale-test-time-compute]] — ELASTIC: Efficiently Learning to Adaptively Scale Test-Time Compute for Generative Control Policies (2026-06-30) #VLA
+- [[papers/vla/g05-galaxea-autoregressive-stream-robot-reasoning-action]] — G0.5 (Galaxea): One Autoregressive Stream for Robot Reasoning and Action (2026-08-11) #VLA
+- [[papers/vla/ervla-revisiting-embodied-chain-of-thought-generalizable-robot-manipulation]] — Revisiting Embodied Chain-of-Thought for Generalizable Robot Manipulation (2026-06-03) #VLA
+- [[papers/vla/robodojo-unified-sim-real-benchmark-generalist-robot-manipulation]] — RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies (2026-07-04) #VLA
+- [[papers/vla/active-real-world-factor-based-evaluation-generalist-robot-policies]] — Active Real-World Factor-Based Evaluation for Generalist Robot Policies (2026-07-16) #VLA
+- [[papers/vla/univiewvla-unified-multiview-vision-language-action-world-modeling]] — UniviewVLA: A Unified Multiview Vision-Language-Action Model with World Modeling (2026-06-21) #VLA
+- [[papers/vla/baton-long-horizon-robot-manipulation-agentic-subtask-exploration]] — Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory (2026-08-17) #VLA
+- [[papers/vla/ucag-p-unified-camera-centric-action-geometry-pretraining]] — One Policy, Many Embodiments: Unified Camera-Centric Action Geometry Pre-training for Heterogeneous Embodied Manipulation (2026-08-26) #VLA
+- [[papers/vla/streampi-streaming-multimodal-temporal-modeling-vla]] — StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models (2026-08-26) #VLA
+- [[papers/vla/muvla-recurrent-memory-partially-observable-manipulation-vla]] — μVLA: On Recurrent Memory for Partially Observable Manipulation in VLA Models (2026-06-12) #VLA
+- [[papers/vla/revisiting-parameter-redundancy-vla-vlm-to-vla-adaptation]] — Revisiting Parameter Redundancy in Vision-Language-Action Models: Insights from VLM-to-VLA Adaptation (2026-06-30) #VLA
+- [[papers/world-models/wam-ttt-steering-world-action-models-watching-human-play-test-time]] — WAM-TTT: Steering World-Action Models by Watching Human Play at Test Time (2026-07-09) #WorldModels
+- [[papers/world-models/zero-wam-in-context-world-action-modeling-human-videos]] — Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization (2026-08-26) #WorldModels
+- [[papers/world-models/wall-ss-scaling-long-horizon-world-models-next-scale-autoregression]] — WALL-SS: Scaling Long-horizon World Models via Next-Scale Autoregression (2026-08-26) #WorldModels
+- [[papers/world-models/clap-cross-embodiment-video-world-models-zero-shot-physical-simulators]] — CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators (2026-08-27) #WorldModels
+- [[papers/world-models/phizero-world-model-physical-language]] — PhiZero: A World Model Built Around Physical Language (2026-07-30) #WorldModels
+- [[papers/world-models/graphop-wm-world-models-morphology-parameter-generalization]] — Graph-Operator World Models for Morphology-Parameter Generalization in Continuous Control (2026-08-21) #WorldModels
+- [[papers/world-models/maskwam-unifying-mask-prompting-prediction-world-action-models]] — MaskWAM: Unifying Mask Prompting and Prediction for World-Action Models (2026-06-16) #WorldModels
+- [[papers/rl-robotics/r3-training-robots-reason-natural-language-reinforcement-learning]] — R³: Training Robots to Reason in Natural Language via Reinforcement Learning (2026-08-26) #RL-Robotics
+- [[papers/rl-robotics/beyond-imitation-self-improving-robot-policies-off-policy-q-planning]] — Beyond Imitation: Self-Improving Robot Policies via Off-Policy Q-Planning (2026-08-21) #RL-Robotics
+- [[papers/rl-robotics/rynnvalue-scaling-robotic-value-foundation-models-temporal-distance]] — RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance (2026-08-10) #RL-Robotics
+- [[papers/rl-robotics/dipod-diffusion-policy-optimization-without-drifting-apart]] — DiPOD: Diffusion Policy Optimization without Drifting Apart (2026-06-11) #RL-Robotics
+- [[papers/rl-robotics/vlm-pbrs-automating-potential-based-reward-shaping-vlm-guidance]] — Automating Potential-based Reward Shaping with Vision Language Model Guidance (2026-06-25) #RL-Robotics
+- [[papers/humanoid/humanoid-dart-diffusion-guided-augmentation-loco-manipulation]] — Humanoid-DART: Humanoid Loco-Manipulation using Diffusion-guided Augmentation through Relabeling and Tracking (2026-06-25) #Humanoid
+- [[papers/humanoid/deed-data-efficient-post-training-retail-humanoid-vla]] — Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids (2026-07-22) #Humanoid
+- [[papers/humanoid/skild-s1-in-context-learning-robotics]] — Skild AI: Introducing S1 — In-Context Learning for Robotics (2026-08-25) #Humanoid
+- [[papers/humanoid/figure-ai-index-crowdsourced-human-video-data-platform]] — Figure AI: Index — Crowdsourced Human Video Data Platform (2026-08-26) #Humanoid
+- [[papers/humanoid/wolf-vla-whole-body-humanoid-optimal-locomotion-framework]] — WOLF-VLA: Whole-Body Humanoid Optimal Locomotion Framework for Vision-Language-Action Learning (2026-06-28) #Humanoid
+- [[papers/humanoid/golem-modular-humanoid-autonomy-ev-battery-disassembly]] — GOLEM: Modular Humanoid Autonomy Towards Electric Vehicle Battery Disassembly (2026-08-21) #Humanoid
+- [[papers/humanoid/xiaomi-second-generation-humanoid-tieda-debut]] — Xiaomi's Second-Generation Humanoid Robot (Tieda) Debuts at WRC 2026 (2026-08-19) #Humanoid
 <!-- INDEX_END -->
 
 ---
@@ -309,8 +345,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-08-09-weekly-digest]] — Weekly Digest 2026-08-09 (36 new entries)
 - [[digests/2026-08-16-weekly-digest]] — Weekly Digest 2026-08-16 (25 new entries)
 - [[digests/2026-08-23-weekly-digest]] — Weekly Digest 2026-08-23 (29 new entries)
+- [[digests/2026-08-30-weekly-digest]] — Weekly Digest 2026-08-30 (36 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-08-23*
+*Last updated: 2026-08-30*
