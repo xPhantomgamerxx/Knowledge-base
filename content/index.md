@@ -321,6 +321,28 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/humanoid/wolf-vla-whole-body-humanoid-optimal-locomotion-framework]] — WOLF-VLA: Whole-Body Humanoid Optimal Locomotion Framework for Vision-Language-Action Learning (2026-06-28) #Humanoid
 - [[papers/humanoid/golem-modular-humanoid-autonomy-ev-battery-disassembly]] — GOLEM: Modular Humanoid Autonomy Towards Electric Vehicle Battery Disassembly (2026-08-21) #Humanoid
 - [[papers/humanoid/xiaomi-second-generation-humanoid-tieda-debut]] — Xiaomi's Second-Generation Humanoid Robot (Tieda) Debuts at WRC 2026 (2026-08-19) #Humanoid
+- [[papers/humanoid/handoff-humanoid-agentic-task-space-whole-body-control-distilled-teachers]] — HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers (2026-06-04) #Humanoid
+- [[papers/humanoid/coordex-coordinating-body-hand-priors-dexterous-loco-manipulation]] — CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation (2026-06-22) #Humanoid
+- [[papers/humanoid/data-standards-humanoid-robotics-missing-infrastructure]] — Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI (2026-06-18) #Humanoid
+- [[papers/humanoid/agibot-world-2026-theme-3-reinforcement-learning-dataset]] — AgiBot World 2026 — Theme 3: Reinforcement Learning Dataset (2026-08-06) #Humanoid
+- [[papers/humanoid/haf-adapting-generalist-vlas-humanoid-whole-body-loco-manipulation]] — HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL (2026-08-17) #Humanoid
+- [[papers/humanoid/fetchman-visual-humanoid-loco-manipulation-simulated-experiences]] — FetchMan: Learning Visual Humanoid Loco-Manipulation Policies from Simulated Experiences (2026-08-17) #Humanoid
+- [[papers/humanoid/adapt-agile-diffusion-action-priors-text-driven-humanoid-control]] — ADAPT: Agile Diffusion Action Priors for Robust and Steerable Online Text-Driven Humanoid Control (2026-09-01) #Humanoid
+- [[papers/rl-robotics/robo-valuerl-reliable-value-estimation-offline-to-online-rl]] — Robo-ValueRL: Reliable Value Estimation for Offline-to-Online Reinforcement Learning (2026-07-10) #RL-Robotics
+- [[papers/rl-robotics/rl-bootstrapping-openvla-oft-novel-robot-embodiment]] — RL-Only Bootstrapping of OpenVLA-OFT for a Novel Cable-Driven Robot Embodiment (2026-08-02) #RL-Robotics
+- [[papers/rl-robotics/efficient-real-world-online-rl-centralized-training-critic-decomposition]] — Efficient Real-World Online RL for Robot Manipulation via Centralized Training and Critic Decomposition (2026-08-10) #RL-Robotics
+- [[papers/rl-robotics/facet-0-robotic-foundation-model-contact-rich-precise-manipulation]] — Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation (2026-09-01) #RL-Robotics
+- [[papers/vla/xr-2-scaling-bimanual-household-manipulation-1500-hours]] — Scaling Bimanual Household Manipulation from 1,500 Hours of Demonstrations to On-Policy Corrections (2026-09-03) #VLA
+- [[papers/vla/zeta-controlled-study-zero-shot-cross-embodiment-vla-transfer]] — ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation (2026-09-02) #VLA
+- [[papers/vla/lavla-latent-cluster-analysis-vision-language-action-models]] — Latent Cluster Analysis for Vision-Language-Action Models (2026-09-02) #VLA
+- [[papers/vla/toward-unified-robot-learning-representation-vla-world-models]] — Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models (2026-09-03) #VLA
+- [[papers/vla/robotok-internet-scale-data-engine-human-demonstration-retrieval]] — RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning (2026-09-02) #VLA
+- [[papers/vla/driving-vla-zero-shot-transfer-across-embodiments]] — Towards Zero-Shot Transfer Across Embodiments For Driving VLAs (2026-09-02) #VLA
+- [[papers/world-models/world-labs-atlas-omni-world-model-spatial-intelligence]] — Atlas: An Omni World Model for Spatial Intelligence (2026-09-01) #WorldModels
+- [[papers/world-models/wm-loco-world-model-augmented-visual-locomotion-humanoids-foothold-constrained-terrain]] — World-Model-Augmented Visual Locomotion for Humanoids on Foothold-Constrained Terrain (2026-09-01) #WorldModels
+- [[papers/world-models/modeling-what-changes-sparse-residual-world-models-object-centric-manipulation]] — Modeling What Changes: Sparse, Residual World Models for Object-Centric Manipulation (2026-09-02) #WorldModels
+- [[papers/world-models/veriphy-agentic-physical-reasoning-world-model-evaluation-refinement]] — VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement (2026-09-03) #WorldModels
+- [[papers/world-models/wise-world-model-guided-imagination-scheduling-vla-post-training]] — WISE: World-model-guided Imagination Scheduling for Efficient Post-training of VLA Models (2026-09-03) #WorldModels
 <!-- INDEX_END -->
 
 ---
@@ -346,8 +368,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-08-16-weekly-digest]] — Weekly Digest 2026-08-16 (25 new entries)
 - [[digests/2026-08-23-weekly-digest]] — Weekly Digest 2026-08-23 (29 new entries)
 - [[digests/2026-08-30-weekly-digest]] — Weekly Digest 2026-08-30 (36 new entries)
+- [[digests/2026-09-06-weekly-digest]] — Weekly Digest 2026-09-06 (22 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-08-30*
+*Last updated: 2026-09-06*
