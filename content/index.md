@@ -343,6 +343,26 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/world-models/modeling-what-changes-sparse-residual-world-models-object-centric-manipulation]] — Modeling What Changes: Sparse, Residual World Models for Object-Centric Manipulation (2026-09-02) #WorldModels
 - [[papers/world-models/veriphy-agentic-physical-reasoning-world-model-evaluation-refinement]] — VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement (2026-09-03) #WorldModels
 - [[papers/world-models/wise-world-model-guided-imagination-scheduling-vla-post-training]] — WISE: World-model-guided Imagination Scheduling for Efficient Post-training of VLA Models (2026-09-03) #WorldModels
+- [[papers/humanoid/robotacdex-dexterous-visual-tactile-action-dataset-humanoid-manipulation]] — RoboTacDex: A Dexterous Visual-Tactile-Action Dataset for Humanoid Manipulation (2026-06-30) #Humanoid
+- [[papers/world-models/dreamsteer-latent-world-models-can-steer-vla-policies-during-deployment-without-any-finetuning]] — DreamSteer: Latent World Models Can Steer VLA Policies During Deployment Without Any Finetuning (2026-07-03) #WorldModels
+- [[papers/world-models/sg-wam-self-guided-world-modeling-in-geometry-aware-policy-space]] — SG-WAM: Self-Guided World Modeling in Geometry-Aware Policy Space (2026-08-02) #WorldModels
+- [[papers/vla/look-where-it-matters-adaptive-visual-refinement-vla]] — Look Where It Matters: Adaptive Visual Refinement for Vision-Language-Action Models (2026-08-03) #VLA
+- [[papers/vla/atlasvla-persistent-world-ego-state-modeling]] — AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models (2026-08-07) #VLA
+- [[papers/vla/lost-in-reconstruction-salt-action-tokenizer-language-alignment]] — Lost in Reconstruction: Aligning Action Representations with Language in Vision-Language-Action Models (2026-08-11) #VLA
+- [[papers/world-models/q-learning-with-world-models]] — Q-Learning With World Models (2026-08-17) #WorldModels
+- [[papers/vla/v-link-recovering-lost-visual-representations-action-dit]] — V-Link: Recovering Lost Visual Representations in Action DiT for Vision-Language-Action Models (2026-08-25) #VLA
+- [[papers/vla/phr-vla-planning-horizon-reasoning]] — PHR-VLA: Planning Horizon Reasoning for Vision-Language-Action Models (2026-08-27) #VLA
+- [[papers/humanoid/ihmc-fast-resilient-adaptable-loco-manipulation-behaviors]] — A System for Fast, Resilient, and Adaptable Loco-Manipulation Behaviors on Humanoid Robots (2026-09-01) #Humanoid
+- [[papers/humanoid/humanoid-safe-stop-learned-stoppability-value]] — Humanoid Safe Stop via Learned Stoppability Value (2026-09-02) #Humanoid
+- [[papers/world-models/solarwm-open-data-and-scalable-training-for-long-horizon-video-world-models]] — SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models (2026-09-02) #WorldModels
+- [[papers/world-models/spatially-aware-world-action-model-via-geometric-latent-diffusion]] — Spatially Aware World Action Model via Geometric Latent Diffusion (2026-09-02) #WorldModels
+- [[papers/vla/vla-precision-asymmetric-co-bootstrapping-online-rl]] — VLA-Precision: Asymmetric Co-Bootstrapping for Efficient Real-World Online RL of Vision-Language-Action Models (2026-09-04) #VLA
+- [[papers/world-models/learning-to-use-imagination-progress-conditioned-future-utilization-for-world-action-models]] — Learning to Use Imagination: Progress-Conditioned Future Utilization for World Action Models (2026-09-06) #WorldModels
+- [[papers/world-models/openwam-an-open-modular-exploration-towards-systematic-world-action-model-pretraining]] — OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining (2026-09-07) #WorldModels
+- [[papers/vla/decal-physically-grounded-dexterous-vla-contact-aware-latent-co-imagination]] — DeCAL: Towards Physically-Grounded Dexterous Vision-Language-Action Models via Contact-Aware Latent Co-Imagination (2026-09-08) #VLA
+- [[papers/world-models/worldagen-unified-state-action-prediction-with-test-time-world-model-training]] — WorldAgen: Unified State-Action Prediction with Test-Time World Model Training (2026-09-08) #WorldModels
+- [[papers/rl-robotics/assembling-two-parts-in-one-hand]] — Assembling Two Parts in One Hand (2026-09-09) #RL-Robotics
+- [[papers/rl-robotics/beyond-noise-steering-dual-latent-space-reinforcement-learning-for-generative-robot-policy]] — Beyond Noise Steering: Dual-Latent Space Reinforcement Learning for Generative Robot Policy (2026-09-10) #RL-Robotics
 <!-- INDEX_END -->
 
 ---
@@ -369,8 +389,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-08-23-weekly-digest]] — Weekly Digest 2026-08-23 (29 new entries)
 - [[digests/2026-08-30-weekly-digest]] — Weekly Digest 2026-08-30 (36 new entries)
 - [[digests/2026-09-06-weekly-digest]] — Weekly Digest 2026-09-06 (22 new entries)
+- [[digests/2026-09-13-weekly-digest]] — Weekly Digest 2026-09-13 (20 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-09-06*
+*Last updated: 2026-09-13*
