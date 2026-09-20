@@ -363,6 +363,55 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/world-models/worldagen-unified-state-action-prediction-with-test-time-world-model-training]] — WorldAgen: Unified State-Action Prediction with Test-Time World Model Training (2026-09-08) #WorldModels
 - [[papers/rl-robotics/assembling-two-parts-in-one-hand]] — Assembling Two Parts in One Hand (2026-09-09) #RL-Robotics
 - [[papers/rl-robotics/beyond-noise-steering-dual-latent-space-reinforcement-learning-for-generative-robot-policy]] — Beyond Noise Steering: Dual-Latent Space Reinforcement Learning for Generative Robot Policy (2026-09-10) #RL-Robotics
+- [[papers/vla/function-preserving-data-generation-real-to-sim-to-real]] — Function-Preserving Data Generation for Zero-Shot Real-to-Sim-to-Real Manipulation (2026-09-16) #VLA
+- [[papers/vla/ra-vla-retrieval-augmented-vla-test-time-adaptation]] — RA-VLA: Retrieval-Augmented VLA for Test-Time Adaptation (2026-08-26) #VLA
+- [[papers/vla/unitree-unifolm-wla-10-open-source-humanoid-foundation-model]] — Unitree UnifoLM-WLA-1.0: Fully Open-Sourced Humanoid Foundation Model (2026-09-10) #VLA
+- [[papers/vla/gemini-robotics-er-2]] — Gemini Robotics ER 2 (2026-07-30) #VLA
+- [[papers/vla/behavior-prompting-policy-demonstrations-as-prompts]] — Behavior Prompting Policy: Demonstrations as Prompts for Manipulation (2026-06-29) #VLA
+- [[papers/vla/semivla-semi-supervised-vision-language-action-model]] — SemiVLA: Semi-Supervised Vision-Language-Action Model (2026-06-19) #VLA
+- [[papers/vla/one-demo-worth-thousand-trajectories-action-view-augmentation]] — One Demo is Worth a Thousand Trajectories: Action-View Augmentation for Visuomotor Policies (2026-06-17) #VLA
+- [[papers/vla/eventvla-event-driven-visual-evidence-memory]] — EventVLA: Event-Driven Visual Evidence Memory for Long-Horizon Vision-Language-Action Policies (2026-06-29) #VLA
+- [[papers/vla/event-vla-action-conditioned-event-fusion-robust-vla]] — Event-VLA: Action-Conditioned Event Fusion for Robust Vision-Language-Action Model (2026-06-28) #VLA
+- [[papers/vla/foresightsafety-vla-unified-diagnostic-safety-benchmark]] — ForesightSafety-VLA: A Unified Diagnostic Safety Benchmark for Vision-Language-Action Models (2026-06-25) #VLA
+- [[papers/vla/hil-umi-human-in-the-loop-post-training-umi]] — HIL-UMI: Bringing Human-in-the-Loop Post-Training of VLA Models to Universal Manipulation Interface (2026-09-18) #VLA
+- [[papers/vla/lessons-learned-real-i-challenge-icra-2026]] — How to Better Train VLAs: Lessons Learned From the REAL-I Challenge at ICRA 2026 (2026-09-13) #VLA
+- [[papers/vla/vlact-representation-centric-continued-pretraining]] — Beyond Data Scaling: Representation-Centric Continued Pre-training for VLA Models (VLAct) (2026-08-27) #VLA
+- [[papers/vla/rmuscle-robotic-muscle-memory-efficient-vla-inference]] — rMuscle: Robotic Muscle Memory for Efficient VLA Model Inference (2026-09-16) #VLA
+- [[papers/vla/vla-ulap-interleaving-cloud-vla-calls-edge]] — VLA-ULAP: Interleaving Cloud VLA Calls with Ultra-Lightweight Local Action Prediction at the Edge (2026-09-16) #VLA
+- [[papers/vla/actionpiece-rethinking-action-tokenization-autoregressive-vla]] — ActionPiece: Rethinking Action Tokenization for Autoregressive VLA Models (2026-09-15) #VLA
+- [[papers/vla/fluxvla-engine-one-stop-vla-engineering-platform]] — FluxVLA Engine: A One-Stop VLA Engineering Platform for Embodied Intelligence (2026-09-14) #VLA
+- [[papers/vla/towards-high-dof-dexterous-manipulation-vla-post-training]] — Towards High-DoF Dexterous Manipulation through VLA Post-Training (2026-09-17) #VLA
+- [[papers/rl-robotics/harbor-harness-framework-agentic-robot-rl]] — HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning (2026-06-07) #RL-Robotics
+- [[papers/rl-robotics/learning-more-from-less-rl-from-hindsight]] — Learning More from Less: Reinforcement Learning from Hindsight (LfH) (2026-07-10) #RL-Robotics
+- [[papers/rl-robotics/retvl-retry-supervised-value-learning-robot-imitation]] — Beyond Monotonic Progress: Retry-Supervised Value Learning for Robot Imitation (ReTVL) (2026-07-06) #RL-Robotics
+- [[papers/rl-robotics/otql-optimal-transport-q-learning-flow-policy-steering]] — Optimal Transport Q-Learning for Flow Policy Steering and Acceleration (OTQL) (2026-07-07) #RL-Robotics
+- [[papers/rl-robotics/intrinsic-robot-rewarding-reusing-vla-representations]] — Intrinsic Robot Rewarding: Reusing VLA Representations for Autonomous Evaluation and Policy Improvement (2026-09-15) #RL-Robotics
+- [[papers/rl-robotics/gr2po-group-relative-return-policy-optimization]] — GR2PO: Group Relative Return Policy Optimization for Continuous Robot Control (2026-09-16) #RL-Robotics
+- [[papers/rl-robotics/rl-real-time-vision-language-action-policies]] — Reinforcement Learning for Real-Time Vision-Language-Action Policies (2026-09-16) #RL-Robotics
+- [[papers/rl-robotics/learning-process-rewards-success-visitation-matching]] — Learning Process Rewards via Success Visitation Matching for Efficient RL (2026-06-26) #RL-Robotics
+- [[papers/rl-robotics/coherent-off-policy-improvement-large-behavior-models]] — Coherent Off-Policy Improvement of Large Behavior Models with Learned Rewards (2026-06-02) #RL-Robotics
+- [[papers/humanoid/helix-25-zero-shot-30-home-generalization]] — Helix 2.5: Zero-Shot 30-Home Generalization (2026-09-17) #Humanoid
+- [[papers/humanoid/apptronik-apollo-2-robot-park]] — Apptronik Unveils Apollo 2 and Opens "Robot Park" Data-Collection Facility (2026-06-30) #Humanoid
+- [[papers/humanoid/openhlm-empirical-recipe-whole-body-humanoid-loco-manipulation]] — OpenHLM: An Empirical Recipe for Whole-Body Humanoid Loco-Manipulation (2026-06-20) #Humanoid
+- [[papers/humanoid/omnicontact-chaining-meta-skills-contact-flow]] — OmniContact: Chaining Meta-Skills via Contact Flow for Generalizable Humanoid Loco-Manipulation (2026-06-24) #Humanoid
+- [[papers/humanoid/pot-vla-persistent-3d-object-tokens-humanoid-vla]] — Closing the Loop in Humanoid VLA: Persistent 3D Object Tokens for Verifiable Loco-Manipulation (2026-07-20) #Humanoid
+- [[papers/humanoid/spot-spatial-perception-long-horizon-humanoid-teleoperation]] — SPOT: Spatial Perception-Oriented Long-Horizon Humanoid Teleoperation (2026-09-07) #Humanoid
+- [[papers/humanoid/viloman-visual-proprioceptive-whole-body-loco-manipulation]] — ViLoMan: Learning Visual-Proprioceptive Whole-Body Loco-Manipulation Skills for Humanoid Robots (2026-09-16) #Humanoid
+- [[papers/humanoid/glori-closed-loop-whole-body-tracking-humanoid]] — GLoRI: Closed-Loop Whole-Body Tracking with Global-Local Reference Interaction for Humanoid Loco-Manipulation (2026-09-05) #Humanoid
+- [[papers/world-models/dextouch-wm-tactile-world-models-human-touch]] — DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation (2026-09-19) #WorldModels
+- [[papers/world-models/ge-act-20-pretraining-scaling-world-action-model]] — GE-Act 2.0: Pretraining and Scaling a World-Action Model for Robotic Manipulation (2026-09-04) #WorldModels
+- [[papers/world-models/wave-go-world-model-navigation-wheel-legged-robots]] — WAVE-Go: World-Model Navigation with Adaptive Execution for Wheel-Legged Robots (2026-09-15) #WorldModels
+- [[papers/world-models/gigabrain-wbc-05-behavior-world-model-whole-body-control]] — GigaBrain-WBC-0.5: A Behavior World Model for Robust Whole-Body Control with Environment Interaction (2026-08-18) #WorldModels
+- [[papers/world-models/feel-wm-world-models-off-road-navigation]] — Feeling Terrain Before Crossing: World Models for Off-Road Navigation (Feel-WM) (2026-09-16) #WorldModels
+- [[papers/world-models/dido-distilling-interaction-centric-dynamics-one-step-denoising]] — DIDO: Distilling Interaction-Centric Dynamics into One-Step Denoising for World Action Models (2026-09-13) #WorldModels
+- [[papers/world-models/modar-modality-autoregressive-world-action-models]] — Modality-Autoregressive World-Action Models (ModAR) (2026-09-15) #WorldModels
+- [[papers/world-models/ewam-enhanced-world-action-model-closed-loop-online-adaptation]] — EWAM: An Enhanced World Action Model for Closed-Loop Online Adaptation in Embodied Intelligence (2026-06-12) #WorldModels
+- [[papers/world-models/agentic-real2sim-physics-based-world-modeling-vl-agents]] — Agentic Real2Sim: Physics-based World Modeling with Vision-Language Agents (2026-07-19) #WorldModels
+- [[papers/world-models/pointzero-3d-point-track-completion-transferable-3d-dynamics]] — PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics (2026-09-16) #WorldModels
+- [[papers/world-models/wla3-world-latent-action-modeling-semantics-dynamics-kinematics]] — WLA³: World Latent Action Modeling for Semantics, Dynamics, and Kinematics (2026-09-13) #WorldModels
+- [[papers/world-models/zing-05-playable-worlds-real-time-joint-action-text-control]] — Zing-0.5: Toward Playable Worlds with Real-Time Joint Action and Text Control (2026-09-15) #WorldModels
+- [[papers/world-models/wholebodywam-wbc-grounded-coordination-humanoid-loco-manipulation]] — WholeBodyWAM: Generalizing Pre-trained World-Action Priors to Humanoid Loco-Manipulation via WBC-Grounded Coordination (2026-09-15) #WorldModels
+- [[papers/world-models/wholebodywam-scalable-motion-priors-unimotion-4k]] — WholeBodyWAM: Learning Whole-Body World Action Models with Scalable Motion Priors (2026-09-16) #WorldModels
 <!-- INDEX_END -->
 
 ---
@@ -390,8 +439,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-08-30-weekly-digest]] — Weekly Digest 2026-08-30 (36 new entries)
 - [[digests/2026-09-06-weekly-digest]] — Weekly Digest 2026-09-06 (22 new entries)
 - [[digests/2026-09-13-weekly-digest]] — Weekly Digest 2026-09-13 (20 new entries)
+- [[digests/2026-09-20-weekly-digest]] — Weekly Digest 2026-09-20 (49 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-09-13*
+*Last updated: 2026-09-20*
