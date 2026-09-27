@@ -412,6 +412,19 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/world-models/zing-05-playable-worlds-real-time-joint-action-text-control]] — Zing-0.5: Toward Playable Worlds with Real-Time Joint Action and Text Control (2026-09-15) #WorldModels
 - [[papers/world-models/wholebodywam-wbc-grounded-coordination-humanoid-loco-manipulation]] — WholeBodyWAM: Generalizing Pre-trained World-Action Priors to Humanoid Loco-Manipulation via WBC-Grounded Coordination (2026-09-15) #WorldModels
 - [[papers/world-models/wholebodywam-scalable-motion-priors-unimotion-4k]] — WholeBodyWAM: Learning Whole-Body World Action Models with Scalable Motion Priors (2026-09-16) #WorldModels
+- [[papers/vla/robodrop-curating-vla-post-training-data-gradient-compatibility]] — RoboDrop: Curating VLA Post-Training Data via Local Gradient Compatibility (2026-09-27) #VLA
+- [[papers/vla/redflow-redirect-failure-action-level-corrections-flow-matching-vla]] — RedFlow: Redirect Failure into Action-Level Corrections for Flow-matching VLA Policy (2026-09-27) #VLA
+- [[papers/vla/in-context-robot-learning-vlm-agents]] — In-Context Robot Learning with VLM Agents (2026-09-27) #VLA
+- [[papers/vla/counteralign-counterfactual-supervision-vla]] — CounterAlign: Counterfactual Supervision for Vision-Language-Action Models (2026-09-27) #VLA
+- [[papers/vla/predvla-predictive-sensorimotor-modeling-sub-million-parameter]] — PredVLA: Predictive Sensorimotor Modeling for Sub-Million-Parameter Robot Manipulation (2026-09-27) #VLA
+- [[papers/world-models/world-models-embodied-intelligence-plausible-controllable-actionable]] — World Models for Embodied Intelligence: From Plausible to Controllable to Actionable (2026-09-27) #WorldModels
+- [[papers/world-models/world-action-models-robot-learning-control-survey]] — World-Action Models for Robot Learning and Control: A Survey (2026-09-27) #WorldModels
+- [[papers/world-models/motus2-self-evolving-general-world-model-dexterous-manipulation]] — Motus2: A Self-Evolving General World Model for Dexterous Manipulation (2026-09-27) #WorldModels
+- [[papers/rl-robotics/learning-to-act-while-waiting-rl-finetuning-inference-latency]] — Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency (2026-09-27) #RL-Robotics
+- [[papers/rl-robotics/graft-grounded-efficient-online-reinforcement-adaptation-fine-grained-manipulation]] — GRAFT: Grounded and Efficient Online Reinforcement Adaptation for Fine-Grained Robot Manipulation (2026-09-27) #RL-Robotics
+- [[papers/rl-robotics/fierce-generalist-robot-policies-fast-specialists-progress-failure-feedback]] — FIERCE: From Generalist Robot Policies to Fast Specialists via Progress-Failure Feedback (2026-09-27) #RL-Robotics
+- [[papers/humanoid/bridge-open-source-humanoid-platform-morphology-control-co-design]] — BRIDGE: An Open-Source Humanoid Platform via Morphology-Control Co-Design for Physical AI (2026-09-27) #Humanoid
+- [[papers/humanoid/swingbot-learning-whole-body-brachiation-humanoid-robots]] — SwingBot: Learning Whole-Body Brachiation for Humanoid Robots (2026-09-27) #Humanoid
 <!-- INDEX_END -->
 
 ---
@@ -440,8 +453,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-09-06-weekly-digest]] — Weekly Digest 2026-09-06 (22 new entries)
 - [[digests/2026-09-13-weekly-digest]] — Weekly Digest 2026-09-13 (20 new entries)
 - [[digests/2026-09-20-weekly-digest]] — Weekly Digest 2026-09-20 (49 new entries)
+- [[digests/2026-09-27-weekly-digest]] — Weekly Digest 2026-09-27 (13 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-09-20*
+*Last updated: 2026-09-27*
