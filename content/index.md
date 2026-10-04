@@ -425,6 +425,29 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/rl-robotics/fierce-generalist-robot-policies-fast-specialists-progress-failure-feedback]] — FIERCE: From Generalist Robot Policies to Fast Specialists via Progress-Failure Feedback (2026-09-27) #RL-Robotics
 - [[papers/humanoid/bridge-open-source-humanoid-platform-morphology-control-co-design]] — BRIDGE: An Open-Source Humanoid Platform via Morphology-Control Co-Design for Physical AI (2026-09-27) #Humanoid
 - [[papers/humanoid/swingbot-learning-whole-body-brachiation-humanoid-robots]] — SwingBot: Learning Whole-Body Brachiation for Humanoid Robots (2026-09-27) #Humanoid
+- [[papers/vla/dissecting-advantage-guided-post-training-vla-policies]] — Dissecting Advantage-Guided Post-Training for Vision-Language-Action Policies (2026-09-23) #VLA
+- [[papers/vla/self-adaptive-vla-robust-robot-deployment]] — Self-Adaptive VLA for Robust Robot Deployment (2026-09-24) #VLA
+- [[papers/vla/recastvla-past-interaction-future-control-adaptive-policy-states]] — RecastVLA: From Past Interaction to Future Control with Adaptive Policy States (2026-09-26) #VLA
+- [[papers/vla/phyvisgen-physically-visually-high-fidelity-robotic-manipulation-data-generation]] — PhyVisGen: Physically and Visually High-Fidelity Robotic Manipulation Data Generation (2026-09-22) #VLA
+- [[papers/vla/vlarl-augmenting-vla-simulation-trained-latent-conditioned-residual-rl]] — VLaRL: Augmenting Vision-Language-Action Models with Simulation-Trained Latent-Conditioned Residual RL (2026-09-25) #VLA
+- [[papers/vla/groundingpi-grounding-foundation-model-physical-intelligence-visual-primitives]] — GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives (2026-09-30) #VLA
+- [[papers/world-models/worldline-action-driven-visual-simulation-robotic-manipulation]] — WorldLine: Action-Driven Visual Simulation for Robotic Manipulation (2026-09-29) #WorldModels
+- [[papers/world-models/robocoach-world-models-active-coaches-compositional-robot-skills]] — RoboCoach: World Models as Active Coaches for Compositional Robot Skills (2026-09-30) #WorldModels
+- [[papers/world-models/world-action-agent-harnessing-vlms-world-action-rehearsal]] — World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal (2026-09-24) #WorldModels
+- [[papers/world-models/data-pyramid-embodied-manipulation-survey]] — Data Pyramid for Embodied Manipulation: A Survey (2026-07-27) #WorldModels
+- [[papers/rl-robotics/find-something-you-cant-do-agentic-rl-self-improving-vla]] — Find Something You Can't Do: Agentic Real-World Reinforcement Learning for Self-Improving VLA Models (2026-09-25) #RL-Robotics
+- [[papers/rl-robotics/parts-real-world-subtask-rl-long-horizon-manipulation-minimal-human-intervention]] — From Pretraining to Proficiency: Real-World Subtask RL for Long-Horizon Manipulation with Minimal Human Intervention (2026-09-21) #RL-Robotics
+- [[papers/rl-robotics/res-hil-human-guided-residual-rl-sample-efficient-dexterous-manipulation]] — Res-HIL: Human-Guided Residual Reinforcement Learning for Sample-Efficient Dexterous Manipulation (2026-09-24) #RL-Robotics
+- [[papers/rl-robotics/tear-test-time-adaptation-manipulation-policies-actuator-degradation]] — Test-Time Adaptation of Manipulation Policies Under Actuator Degradation (2026-09-28) #RL-Robotics
+- [[papers/rl-robotics/scout-scouting-dynamics-gap-test-time-policy-adaptation]] — Scouting the Dynamics Gap: Test-Time Policy Adaptation via Action-Outcome Feedback (2026-09-28) #RL-Robotics
+- [[papers/rl-robotics/preferenceflow-test-time-guidance-flow-matching-robot-policies-human-interventions]] — PreferenceFlow: Test-Time Guidance of Flow-Matching Robot Policies from Human Interventions (2026-09-28) #RL-Robotics
+- [[papers/rl-robotics/prism-grpo-faster-vla-policy-optimization-splitting-same-outcome-groups]] — Prism-GRPO: Faster VLA Policy Optimization via Splitting Same-outcome Groups (2026-08-18) #RL-Robotics
+- [[papers/humanoid/dexweave-learning-dexterous-humanoid-loco-manipulation-human-demonstrations]] — DexWeave: Learning Dexterous Humanoid Loco-Manipulation from Human Demonstrations (2026-09-28) #Humanoid
+- [[papers/humanoid/prism-counterfactual-video-generation-scalable-humanoid-loco-manipulation]] — Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation (2026-09-30) #Humanoid
+- [[papers/humanoid/wb-wam-heterogeneous-body-hand-pretraining-humanoid-loco-manipulation]] — WB-WAM: Heterogeneous Body-Hand Pre-training for Humanoid Loco-Manipulation (2026-09-28) #Humanoid
+- [[papers/humanoid/tango-humanoid-navigation-cluttered-environments-whole-body-vla]] — TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model (2026-09-08) #Humanoid
+- [[papers/humanoid/learning-diverse-humanoid-tasks-synthetic-video-scenarios-without-real-world-data]] — Learning Diverse Humanoid Tasks via Synthetic Video Scenarios without Real World Data (2026-07-22) #Humanoid
+- [[papers/humanoid/skild-ai-physical-self-play]] — Skild AI: Physical Self-Play (2026-09-23) #Humanoid
 <!-- INDEX_END -->
 
 ---
@@ -454,8 +477,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-09-13-weekly-digest]] — Weekly Digest 2026-09-13 (20 new entries)
 - [[digests/2026-09-20-weekly-digest]] — Weekly Digest 2026-09-20 (49 new entries)
 - [[digests/2026-09-27-weekly-digest]] — Weekly Digest 2026-09-27 (13 new entries)
+- [[digests/2026-10-04-weekly-digest]] — Weekly Digest 2026-10-04 (23 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-09-27*
+*Last updated: 2026-10-04*
