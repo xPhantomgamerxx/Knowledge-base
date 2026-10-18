@@ -492,6 +492,31 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/humanoid/general-humanoid-loco-manipulation-egocentric-whole-body-human-data-pretraining]] — Towards a General Humanoid Loco-Manipulation Model via Egocentric Whole-Body Human Data Pretraining (2026-10-01) #Humanoid
 - [[papers/humanoid/humanoidtoolbench-benchmarking-humanoid-tool-use-selection-mobile-execution]] — HumanoidToolBench: Benchmarking Humanoid Tool Use from Selection to Mobile Execution (2026-10-01) #Humanoid
 - [[papers/humanoid/mate-multi-agent-virtual-teleoperation-humanoid-collaboration-data-collection]] — MATE: Multi-Agent Virtual Teleoperation Platform for Humanoid Collaboration Data Collection (2026-09-22) #Humanoid
+- [[papers/vla/splat2act-captured-scenes-personalized-vla-manipulation]] — Splat2Act: From Captured Scenes to Personalized VLA Manipulation (2026-10-09) #VLA
+- [[papers/vla/ogpo-offline-goal-conditioned-policy-optimization-recoverable-vla]] — OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models (2026-10-09) #VLA
+- [[papers/vla/rara-retrieval-anchored-representation-alignment-vla]] — RARA: Robust Policy Fine-Tuning via Retrieval-Anchored Representation Alignment (2026-10-13) #VLA
+- [[papers/vla/human-demonstrations-post-training-data-any-robot-body]] — Human Demonstrations as Post-Training Data for Any Robot Body: Retargeting the Object, Not the Hand (2026-10-14) #VLA
+- [[papers/vla/graph-reweighted-behavior-cloning-human-interventions-manipulation]] — Graph-Reweighted Behavior Cloning with Human Interventions for Precise Robotic Manipulation (2026-10-15) #VLA
+- [[papers/vla/one-shot-human-video-guided-adaptation-vla]] — One-shot Human Video-Guided Adaptation for Vision-Language-Action Models (2026-10-14) #VLA
+- [[papers/vla/noise-space-learning-vla-adaptation]] — Noise Space Learning for VLA Adaptation (2026-10-13) #VLA
+- [[papers/vla/what-matters-quality-aware-vla-pretraining-benchmark]] — What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study (2026-10-13) #VLA
+- [[papers/vla/core-vla-scalable-robust-conditional-routing-experts]] — CoRE-VLA: Towards Scalable and Robust Vision-Language-Action Modeling via Conditional Routing of Experts (2026-10-09) #VLA
+- [[papers/vla/libero-rig-hardware-setup-robustness-benchmark-vla]] — LIBERO-RIG: A Hardware-Setup Robustness Benchmark for Vision-Language-Action Models (2026-10-13) #VLA
+- [[papers/vla/forkcast-predictive-recovery-vla-counterfactual-futures]] — ForkCast: Predictive Recovery for Vision-Language-Action Policies via Counterfactual Futures (2026-10-14) #VLA
+- [[papers/vla/jittervla-replay-benchmark-motion-smoothness]] — JitterVLA: A Replay Benchmark for Motion Smoothness in VLA-Driven Human-Robot Manipulation (2026-10-13) #VLA
+- [[papers/vla/wave-0-bridging-vla-policies-wams-latent-future-prediction]] — WAVE-0: Bridging VLA Policies and WAMs with Lightweight Latent Future Prediction (2026-10-14) #VLA
+- [[papers/world-models/greenwam-world-foundation-model-robotics]] — GreenWAM: A World Foundation Model for Robotics (2026-10-13) #WorldModels
+- [[papers/world-models/loopwam-closed-loop-generalist-policy-improvement-deployment-rollouts]] — LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts (2026-10-14) #WorldModels
+- [[papers/world-models/thinker-wm-unified-world-model-shared-multimodal-representations]] — Thinker-WM: A Unified World Model with Shared Multimodal Representations for Embodied Intelligence (2026-10-14) #WorldModels
+- [[papers/world-models/what-matters-world-modeling-vla]] — What Matters for World Modeling in Vision-Language-Action Models? (2026-10-15) #WorldModels
+- [[papers/world-models/glimpse-explorable-video-world-models-spectral-indexing]] — GLIMPSE: Explorable Video World Models with Multi-Precision Spectral Indexing (2026-10-13) #WorldModels
+- [[papers/world-models/smolwam-compact-latent-world-action-model-edge-devices]] — SmolWAM: A Compact Latent World-Action Model for Edge Devices (2026-10-13) #WorldModels
+- [[papers/rl-robotics/accrue-continual-off-policy-rl-robot-foundation-models]] — ACCRUE: Continual Off-Policy Reinforcement Learning for Robot Foundation Models (2026-10-13) #RL-Robotics
+- [[papers/rl-robotics/dream-to-remember-continual-steering-generalist-policies-world-models]] — Dream to Remember: Continual Steering of Generalist Robot Policies with World Models (2026-10-13) #RL-Robotics
+- [[papers/rl-robotics/beyond-temporal-proximity-explanatory-world-models-credit-assignment]] — Beyond Temporal Proximity: Explanatory World Models for Credit Assignment in RL (2026-10-13) #RL-Robotics
+- [[papers/humanoid/viola-generalist-humanoid-control-policies-human-data]] — VioLA: Learning Generalist Humanoid Control Policies from Human Data (2026-10-08) #Humanoid
+- [[papers/humanoid/what-elevation-map-cannot-see-semantic-locomotion-humanoid]] — What the Elevation Map Cannot See: Semantic-Aware Locomotion and Execution-Aware Navigation for Humanoid Robot (2026-10-05) #Humanoid
+- [[papers/humanoid/egomatrix-physically-faithful-dexterous-robot-demonstrations-egocentric-video]] — EgoMatrix: Physically Faithful Dexterous Robot Demonstrations from Egocentric Human Videos (2026-10-14) #Humanoid
 <!-- INDEX_END -->
 
 ---
@@ -523,8 +548,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-09-27-weekly-digest]] — Weekly Digest 2026-09-27 (13 new entries)
 - [[digests/2026-10-04-weekly-digest]] — Weekly Digest 2026-10-04 (23 new entries)
 - [[digests/2026-10-11-weekly-digest]] — Weekly Digest 2026-10-11 (44 new entries)
+- [[digests/2026-10-18-weekly-digest]] — Weekly Digest 2026-10-18 (24 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-10-11*
+*Last updated: 2026-10-18*
