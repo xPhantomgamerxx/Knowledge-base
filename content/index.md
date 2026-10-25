@@ -517,6 +517,14 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/humanoid/viola-generalist-humanoid-control-policies-human-data]] — VioLA: Learning Generalist Humanoid Control Policies from Human Data (2026-10-08) #Humanoid
 - [[papers/humanoid/what-elevation-map-cannot-see-semantic-locomotion-humanoid]] — What the Elevation Map Cannot See: Semantic-Aware Locomotion and Execution-Aware Navigation for Humanoid Robot (2026-10-05) #Humanoid
 - [[papers/humanoid/egomatrix-physically-faithful-dexterous-robot-demonstrations-egocentric-video]] — EgoMatrix: Physically Faithful Dexterous Robot Demonstrations from Egocentric Human Videos (2026-10-14) #Humanoid
+- [[papers/vla/versacamvla-camera-configurable-vla-policies]] — VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation (2026-10-08) #VLA
+- [[papers/vla/fast-vla-you-only-think-once-robot-manipulation]] — Fast-VLA: You Only Think Once for Robot Manipulation (2026-10-15) #VLA
+- [[papers/vla/vlms-are-native-action-models-explicit-action-space-grounding]] — VLMs are Native Action Models: Unleashing the Manipulation Capabilities of VLMs with Explicit Action-Space Grounding (2026-10-09) #VLA
+- [[papers/world-models/supermimic-scaling-humanoid-whole-body-control-differentiable-world-model]] — SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model (2026-10-20) #WorldModels
+- [[papers/world-models/bejepa-goal-conditioned-humanoid-behavior-world-model]] — BeJEPA: A Goal-Conditioned Humanoid Behavior World Model via Unsupervised RL (2026-10-16) #WorldModels
+- [[papers/rl-robotics/how-and-how-not-to-use-data-augmentation-vla-post-training]] — How (and How Not) to Use Data Augmentation in VLA Post-Training (2026-10-07) #RL-Robotics
+- [[papers/rl-robotics/balanced-data-diet-exploration-bottleneck-mega-scale-rl-robot-control]] — A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control (2026-10-08) #RL-Robotics
+- [[papers/humanoid/lambda0-scaling-open-world-egocentric-human-data-humanoid-loco-manipulation]] — λ₀: Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation (2026-10-13) #Humanoid
 <!-- INDEX_END -->
 
 ---
@@ -549,8 +557,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-10-04-weekly-digest]] — Weekly Digest 2026-10-04 (23 new entries)
 - [[digests/2026-10-11-weekly-digest]] — Weekly Digest 2026-10-11 (44 new entries)
 - [[digests/2026-10-18-weekly-digest]] — Weekly Digest 2026-10-18 (24 new entries)
+- [[digests/2026-10-25-weekly-digest]] — Weekly Digest 2026-10-25 (8 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-10-18*
+*Last updated: 2026-10-25*
