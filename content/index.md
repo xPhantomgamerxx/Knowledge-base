@@ -525,6 +525,15 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/rl-robotics/how-and-how-not-to-use-data-augmentation-vla-post-training]] — How (and How Not) to Use Data Augmentation in VLA Post-Training (2026-10-07) #RL-Robotics
 - [[papers/rl-robotics/balanced-data-diet-exploration-bottleneck-mega-scale-rl-robot-control]] — A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control (2026-10-08) #RL-Robotics
 - [[papers/humanoid/lambda0-scaling-open-world-egocentric-human-data-humanoid-loco-manipulation]] — λ₀: Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation (2026-10-13) #Humanoid
+- [[papers/vla/world-to-wrist-task-conditioned-future-wrist-modeling-fine-grained-manipulation]] — World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation (2026-08-07) #VLA
+- [[papers/vla/what-makes-an-efficient-vla-action-head-design-scaling-latency]] — What Makes an Efficient VLA? Navigating Action-Head Design, Scaling, and Latency (2026-09-12) #VLA
+- [[papers/world-models/zimablue-evolving-generalizable-world-action-models-scalable-video-pretraining]] — ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-training (2026-08-31) #WorldModels
+- [[papers/world-models/forewam-foresight-without-seeing-latent-futures-world-action-models]] — Foresight Without Seeing: Latent Futures for World Action Models (ForeWAM) (2026-08-13) #WorldModels
+- [[papers/world-models/dreamwam-beyond-rgb-future-prediction-world-action-models]] — DreamWAM: Beyond RGB Future Prediction for World Action Models (2026-08-05) #WorldModels
+- [[papers/world-models/right-future-for-action-action-relevant-predictive-states-wam]] — The Right Future for Action: Learning Action-Relevant Predictive States in World Action Models (2026-09-27) #WorldModels
+- [[papers/world-models/unitree-unifolm-x2-autonomous-sparring-world-model]] — Unitree UnifoLM-X2-1.0: Real-Time World-Model-Driven Autonomous Humanoid Sparring (2026-09-07) #WorldModels
+- [[papers/rl-robotics/value-as-memory-online-value-guided-post-training-robot-policies]] — Value as Memory (VaM): Online Value-Guided Post-training for General Robot Policies (2026-10-15) #RL-Robotics
+- [[papers/humanoid/boston-dynamics-atlas-13-dof-four-finger-hand]] — Boston Dynamics Unveils New 13-DOF Four-Finger Tactile Hand for Atlas (2026-10-02) #Humanoid
 <!-- INDEX_END -->
 
 ---
@@ -558,8 +567,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-10-11-weekly-digest]] — Weekly Digest 2026-10-11 (44 new entries)
 - [[digests/2026-10-18-weekly-digest]] — Weekly Digest 2026-10-18 (24 new entries)
 - [[digests/2026-10-25-weekly-digest]] — Weekly Digest 2026-10-25 (8 new entries)
+- [[digests/2026-11-01-weekly-digest]] — Weekly Digest 2026-11-01 (9 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-10-25*
+*Last updated: 2026-11-01*
