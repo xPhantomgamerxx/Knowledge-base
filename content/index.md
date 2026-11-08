@@ -534,6 +534,13 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/world-models/unitree-unifolm-x2-autonomous-sparring-world-model]] — Unitree UnifoLM-X2-1.0: Real-Time World-Model-Driven Autonomous Humanoid Sparring (2026-09-07) #WorldModels
 - [[papers/rl-robotics/value-as-memory-online-value-guided-post-training-robot-policies]] — Value as Memory (VaM): Online Value-Guided Post-training for General Robot Policies (2026-10-15) #RL-Robotics
 - [[papers/humanoid/boston-dynamics-atlas-13-dof-four-finger-hand]] — Boston Dynamics Unveils New 13-DOF Four-Finger Tactile Hand for Atlas (2026-10-02) #Humanoid
+- [[papers/vla/from-pixels-to-actions-native-vision-language-action-policies]] — From Pixels to Actions: Towards Native Vision-Language-Action Policies (NEO-VLA) (2026-11-04) #VLA
+- [[papers/vla/contextflow-in-context-flow-matching-robot-manipulation]] — ContextFlow: In-Context Flow Matching for Robot Manipulation (2026-09-08) #VLA
+- [[papers/vla/simpleicl-in-context-robot-learning-made-simple]] — In-Context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks (SimpleICL) (2026-09-29) #VLA
+- [[papers/vla/simvla-zero-shot-sim-to-real-mobile-manipulation]] — SimVLA: Zero-Shot Sim-to-Real VLA Learning for Mobile Manipulation (2026-10-08) #VLA
+- [[papers/vla/huro-robotizing-human-videos-scalable-vla-pretraining]] — HuRo: Robotizing Human Videos for Scalable VLA Pretraining (2026-09-18) #VLA
+- [[papers/world-models/think-like-world-model-act-like-vla]] — Think Like a World Model, Act Like a VLA: Distilling World-Model Representations into Compact Robot Policies (2026-09-29) #WorldModels
+- [[papers/world-models/dyna-2-world-action-model-human-video-scaling-law]] — DYNA-2: A World-Action Model Pre-Trained on 1 Million Hours of Human Video (2026-08-10) #WorldModels
 <!-- INDEX_END -->
 
 ---
@@ -568,8 +575,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-10-18-weekly-digest]] — Weekly Digest 2026-10-18 (24 new entries)
 - [[digests/2026-10-25-weekly-digest]] — Weekly Digest 2026-10-25 (8 new entries)
 - [[digests/2026-11-01-weekly-digest]] — Weekly Digest 2026-11-01 (9 new entries)
+- [[digests/2026-11-08-weekly-digest]] — Weekly Digest 2026-11-08 (7 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-11-01*
+*Last updated: 2026-11-08*
