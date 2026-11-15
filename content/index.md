@@ -541,6 +541,19 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/vla/huro-robotizing-human-videos-scalable-vla-pretraining]] — HuRo: Robotizing Human Videos for Scalable VLA Pretraining (2026-09-18) #VLA
 - [[papers/world-models/think-like-world-model-act-like-vla]] — Think Like a World Model, Act Like a VLA: Distilling World-Model Representations into Compact Robot Policies (2026-09-29) #WorldModels
 - [[papers/world-models/dyna-2-world-action-model-human-video-scaling-law]] — DYNA-2: A World-Action Model Pre-Trained on 1 Million Hours of Human Video (2026-08-10) #WorldModels
+- [[papers/vla/gemini-robotics-2-5-accelerates-real-world-physical-intelligence]] — Gemini Robotics 2.5: Accelerating Real-World Physical Intelligence (2026-11-10) #VLA
+- [[papers/vla/sla-scaling-spatial-language-action-model-continual-pretraining]] — SLA: Scaling Spatial-Language-Action Model via Continual Pre-training (2026-11-05) #VLA
+- [[papers/vla/oopsierecover-learning-transferable-vla-corrections-semantic-interventions]] — OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions (2026-11-05) #VLA
+- [[papers/vla/t2mem-learning-test-time-memory-for-robotics]] — T²Mem: Learning Test-Time Memory for Robotics (2026-09-29) #VLA
+- [[papers/world-models/robojepa-scaling-robotic-latent-world-models]] — RoboJEPA: Scaling Robotic Latent World Models (2026-10-07) #WorldModels
+- [[papers/world-models/hydra-0-action-flow-generalist-world-modeling-control]] — Hydra-0: Action Flow for Generalist World Modeling and Control (2026-08-18) #WorldModels
+- [[papers/world-models/ropedia-w0-scaling-loco-manipulation-world-models-across-embodiments]] — Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience (2026-10-19) #WorldModels
+- [[papers/world-models/genie-4-deepmind-real-time-world-model-robotics]] — Genie 4: A Real-Time World Model with Early Robotics Integration (2026-10-27) #WorldModels
+- [[papers/rl-robotics/reinforcement-learning-enables-scaling-generalist-robot-policy-improvement]] — Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement (2026-11-04) #RL-Robotics
+- [[papers/rl-robotics/latent-rl-priors-data-efficient-dexterous-manipulation]] — Latent RL Priors for Data-Efficient Dexterous Manipulation (2026-11-05) #RL-Robotics
+- [[papers/rl-robotics/agenticroborl-coding-agent-post-training-agentic-robotics]] — AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics (2026-10-20) #RL-Robotics
+- [[papers/humanoid/halo-apple-perceptive-humanoid-motion-from-simulation]] — HALO: Perceptive Humanoid Motion from Simulation (2026-11-04) #Humanoid
+- [[papers/humanoid/terrain-indexed-motion-priors-geometric-support-extreme-humanoid-parkour]] — Terrain-Indexed Motion Priors and Geometric Support for Extreme Humanoid Parkour (2026-11-05) #Humanoid
 <!-- INDEX_END -->
 
 ---
@@ -576,8 +589,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-10-25-weekly-digest]] — Weekly Digest 2026-10-25 (8 new entries)
 - [[digests/2026-11-01-weekly-digest]] — Weekly Digest 2026-11-01 (9 new entries)
 - [[digests/2026-11-08-weekly-digest]] — Weekly Digest 2026-11-08 (7 new entries)
+- [[digests/2026-11-15-weekly-digest]] — Weekly Digest 2026-11-15 (13 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-11-08*
+*Last updated: 2026-11-15*
