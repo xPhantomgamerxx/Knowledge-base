@@ -554,6 +554,26 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[papers/rl-robotics/agenticroborl-coding-agent-post-training-agentic-robotics]] — AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics (2026-10-20) #RL-Robotics
 - [[papers/humanoid/halo-apple-perceptive-humanoid-motion-from-simulation]] — HALO: Perceptive Humanoid Motion from Simulation (2026-11-04) #Humanoid
 - [[papers/humanoid/terrain-indexed-motion-priors-geometric-support-extreme-humanoid-parkour]] — Terrain-Indexed Motion Priors and Geometric Support for Extreme Humanoid Parkour (2026-11-05) #Humanoid
+- [[papers/vla/ttt-rm-test-time-training-residual-memory-robot-policies]] — Test-Time Training as Residual Memory for Robot Policies (2026-10-05) #VLA
+- [[papers/vla/chronos-policy-learning-robot-policies-physical-time]] — Chronos Policy: Learning Robot Policies on Physical Time (2026-10-13) #VLA
+- [[papers/vla/verify-act-distill-test-time-compute-adaptation-vla]] — Verify, Act, Distill: Turning Test-Time Compute into Test-Time Adaptation for Vision-Language-Action Models (2026-10-14) #VLA
+- [[papers/vla/tfp-physical-time-missing-dimension-robot-policy-memory]] — Physical Time as a Missing Dimension of Robot Policy Memory Dynamics (2026-10-20) #VLA
+- [[papers/rl-robotics/tempo-efficient-test-time-adaptation-robot-policies]] — Efficient Test-Time Adaptation For Robot Policies (2026-10-20) #RL-Robotics
+- [[papers/vla/ttt-vla-exploring-training-human-demonstrations]] — TTT in VLA Models: Exploring Training with Human Demonstrations (2026-10-31) #VLA
+- [[papers/humanoid/agibot-go-3-preview-world-reasoning-action-model]] — AGIBOT GO-3 Preview: A World Reasoning Action Model for Humanoids (2026-10-29) #Humanoid
+- [[papers/humanoid/locomanilab-unified-testbed-humanoid-loco-manipulation]] — LocoManiLab: A Unified Testbed for Data, Policies, Controllers, and Deployment in Humanoid Loco-Manipulation (2026-10-30) #Humanoid
+- [[papers/rl-robotics/repair-distilling-rl-specialists-vla-policies]] — Beyond Policy Patches: Distilling RL Specialists into Vision-Language-Action Policies (2026-11-02) #RL-Robotics
+- [[papers/rl-robotics/phil-proactive-human-in-the-loop-intervention-preference-learning]] — Correct Robots Before They Make Mistakes: Proactive Human-in-the-Loop Intervention via Preference Learning (2026-11-04) #RL-Robotics
+- [[papers/vla/lerobot-v070-interactive-rollouts-world-action-models]] — LeRobot v0.7.0: Interactive Rollouts, Disk-less Streaming, and a New Wave of World-Action Models (2026-11-05) #VLA
+- [[papers/world-models/nvidia-cosmos-3-open-checkpoints-robot-av-simulation]] — NVIDIA Releases Four Open Cosmos 3 Checkpoints for Robot and AV World Simulation (2026-11-05) #WorldModels
+- [[papers/world-models/roboimagine-world-models-semantic-visual-feedback]] — Learning Robotic World Models with Semantic and Visual Feedback (2026-11-05) #WorldModels
+- [[papers/humanoid/airoa-0-long-horizon-cross-embodiment-manipulation-handheld-data]] — AIRoA-0: Long-Horizon, Precise, Cross-Embodiment Manipulation from Handheld Data (2026-11-06) #Humanoid
+- [[papers/rl-robotics/wicl-world-in-context-learning-agentic-robot-manipulation]] — World In-Context Learning for Agentic Robot Manipulation (2026-11-08) #RL-Robotics
+- [[papers/humanoid/festival-video-to-stage-sim-to-real-dance-humanoid]] — From Festival Video to the Stage: A Sim-to-Real Ladder for Long-Horizon Expressive Whole-Body Dance on a Commercial Humanoid (2026-11-08) #Humanoid
+- [[papers/vla/nvidia-groot-2-isaac-lab-3-corl-2026]] — GR00T 2 and Isaac Lab 3.0: NVIDIA's Open World-Action Model and Simulation Stack at CoRL 2026 (2026-11-09) #VLA
+- [[papers/humanoid/boston-dynamics-atlas-wheeled-legs-whole-body-control]] — Boston Dynamics: Wheeled Atlas — Testing Whole-Body Control at the Actuator Limit (2026-11-09) #Humanoid
+- [[papers/world-models/does-your-world-model-know-actions-have-consequences]] — Does Your World Model Know Actions Have Consequences? (2026-11-11) #WorldModels
+- [[papers/vla/scalevla-552b-deepseek-backbone-robot-action-policy]] — ScaleVLA: Scaling Vision-Language-Action Models to a 552B DeepSeek-V4.1-Flash Backbone (2026-11-16) #VLA
 <!-- INDEX_END -->
 
 ---
@@ -590,8 +610,9 @@ Updated every Monday. Topics: VLAs, World Models, RL for Robotics.
 - [[digests/2026-11-01-weekly-digest]] — Weekly Digest 2026-11-01 (9 new entries)
 - [[digests/2026-11-08-weekly-digest]] — Weekly Digest 2026-11-08 (7 new entries)
 - [[digests/2026-11-15-weekly-digest]] — Weekly Digest 2026-11-15 (13 new entries)
+- [[digests/2026-11-22-weekly-digest]] — Weekly Digest 2026-11-22 (20 new entries)
 <!-- DIGESTS_END -->
 
 ---
 
-*Last updated: 2026-11-15*
+*Last updated: 2026-11-22*
